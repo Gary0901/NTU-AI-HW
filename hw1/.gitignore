@@ -1,0 +1,12 @@
+# 忽略 code 資料夾
+/code/
+AI/code/
+
+# 忽略 Anaconda 安裝檔
+hw1/Anaconda3-2024.10-1-Linux-x86_64.sh
+
+# 其他常見的需要忽略的檔案類型
+*.pyc
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/

@@ -1,0 +1,726 @@
+0開始時間: 2025-03-22 08:29:10
+正在載入BLIP模型...
+使用裝置: cuda
+正在載入完整的Flickr30k資料集...
+獲取所有可用的資料...
+測試集大小: 31014
+合併後的資料集大小: 31014
+資料集特徵: {'image': Image(mode=None, decode=True, id=None), 'caption': [Value(dtype='string', id=None)], 'sentids': [Value(dtype='string', id=None)], 'split': Value(dtype='string', id=None), 'img_id': Value(dtype='string', id=None), 'filename': Value(dtype='string', id=None)}
+樣本鍵: ['image', 'caption', 'sentids', 'split', 'img_id', 'filename']
+使用圖像欄位: image
+使用文字欄位: caption
+
+開始處理圖像和生成字幕...
+
+進度: 1/31014 (0.00%)
+預估剩餘時間: 7小時 16分鐘 28秒
+最新生成的字幕: a man standing in the grass
+參考字幕: ['Two young guys with shaggy hair look at their hands while hanging out in the yard.', 'Two young, White males are outside near many bushes.', 'Two men in green shirts are standing in a yard.', 'A man in a blue shirt standing in a garden.', 'Two friends enjoy time spent together.']
+已儲存中間結果到 temp_results_1.txt
+
+進度: 300/31014 (0.97%)
+預估剩餘時間: 1小時 4分鐘 17秒
+最新生成的字幕: a blue truck
+參考字幕: ['A man in a gray camouflage shirt and gray pants sits under the hood of a blue truck.', 'A man performing auto repair in front of a building.', "A man crouches under a truck hood's shade to fix it.", 'A man sits in the under the hood of a blue truck.', 'A mexican man sits under the hood of his truck.']
+已儲存中間結果到 temp_results_300.txt
+
+進度: 600/31014 (1.93%)
+預估剩餘時間: 1小時 2分鐘 38秒
+最新生成的字幕: a group of people sitting on the ground
+參考字幕: ['A bunch of people with little white hats are sitting in a park.', 'A group of worshipers hold their services in a public park.', 'Crowd at a park in India waiting for an event to start.', 'A group of Muslims are in a park listening to a speech.', 'A gathering of Muslim men sitting in rows.']
+已儲存中間結果到 temp_results_600.txt
+
+進度: 900/31014 (2.90%)
+預估剩餘時間: 1小時 1分鐘 55秒
+最新生成的字幕: a man jumping off a cliff into the water
+參考字幕: ['A male adolescent or young teenager is wearing camouflaged shorts or long swim trunks and is upside down over a body of water like a lake or reservoir whose cement walls and graveled top appear in the corner.', 'A boy in swim trunks does a backflip into the ocean while mountains show through the fog behind him.', 'A young boy performs a backflip off a cliff, into the sea.', 'A man jumps into the water on a sunny day.', 'A young male jumping into the water.']
+已儲存中間結果到 temp_results_900.txt
+
+進度: 1200/31014 (3.87%)
+預估剩餘時間: 1小時 0分鐘 49秒
+最新生成的字幕: a man on a rope bridge
+參考字幕: ['A woman is crossing a rope bridge in the trees with other people waiting at one end.', 'A woman wearing a white shirt and jeans crosses a rope bridge in a wooded area.', 'Three people are crossing a rope bridge hung between pine trees.', 'A group of people walking across a rope bridge.', 'A woman is crossing a rope bridge.']
+已儲存中間結果到 temp_results_1200.txt
+
+進度: 1500/31014 (4.84%)
+預估剩餘時間: 0小時 59分鐘 48秒
+最新生成的字幕: a man carrying a little girl
+參考字幕: ["A small child in a red jacket is sitting on a man's shoulders and holding his head.", 'A white man with carrying hair and a beard with a child on his shoulders.', "A child wearing a red jacket is sitting on the man's shoulders.", 'A man carrying a girl on his shoulders.', "A child rides on a man's shoulders."]
+已儲存中間結果到 temp_results_1500.txt
+
+進度: 1800/31014 (5.80%)
+預估剩餘時間: 0小時 58分鐘 56秒
+最新生成的字幕: a dog playing with a stuffed animal
+參考字幕: ['Two puppies are wrestling on green grass.', 'A black dog plays with another animal.', 'Two puppies wrestle with each other', 'Two dogs wrestle in the ground.', 'Two dogs wrestle in the grass.']
+已儲存中間結果到 temp_results_1800.txt
+
+進度: 2100/31014 (6.77%)
+預估剩餘時間: 0小時 58分鐘 13秒
+最新生成的字幕: a woman in a white shirt
+參考字幕: ['A woman in a white shirt and short blond-hair makes a weird face.', 'A woman with short blond-hair sings along with the band at bar.', 'A girl with short hair and a white shirt is holding a beer bottle', 'A woman laughing in a bar.', 'Woman singing at a bar.']
+已儲存中間結果到 temp_results_2100.txt
+
+進度: 2400/31014 (7.74%)
+預估剩餘時間: 0小時 57分鐘 27秒
+最新生成的字幕: a man on a motorcycle
+參考字幕: ['A man wearing a gray and black shirt and blue jeans sells inflatable brightly colored toys.', 'A man wearing an orange hat is holding an inflatable hammer.', 'A man with inflatable hammers and other inflatable goods.', 'A man in a yellow hat holds a colorful blow-up hammer.', 'A man sells inflatable toys at an outdoor event.']
+已儲存中間結果到 temp_results_2400.txt
+
+進度: 2700/31014 (8.71%)
+預估剩餘時間: 0小時 56分鐘 58秒
+最新生成的字幕: a man standing in front of a building
+參考字幕: ['A man is standing outside a building while another man in a military uniform leans against a low wall.', 'A male security officer stands at his post behind another man in a patterned sweater.', 'A police officer is monitoring a by stander while guarding a building.', 'A security officer and a man stand in front of a building.', 'A man in a sweater and black pants waits.']
+已儲存中間結果到 temp_results_2700.txt
+
+進度: 3000/31014 (9.67%)
+預估剩餘時間: 0小時 56分鐘 23秒
+最新生成的字幕: a young boy is playing with a large puddle
+參考字幕: ['The small child in green crocks leans over to look inside a grate.', 'The little girl in green bends down the check out the drainpipe.', 'A young child in a green shirt and crocks looking down a drain', 'Blond girl looking down the grating on the road.', 'A child in green shoes staring down a drain.']
+已儲存中間結果到 temp_results_3000.txt
+
+進度: 3300/31014 (10.64%)
+預估剩餘時間: 0小時 55分鐘 46秒
+最新生成的字幕: a baby in a crib
+參考字幕: ['The infant is laying on its stomach, in a crib, looking up at the camera.', 'A baby, surrounded by some toys, looks out of a playpen.', 'Baby looking through playpen bars at camera.', 'A baby looks through his crib.', 'Baby in playpen with wide eyes']
+已儲存中間結果到 temp_results_3300.txt
+
+進度: 3600/31014 (11.61%)
+預估剩餘時間: 0小時 55分鐘 6秒
+最新生成的字幕: a girl is drawing
+參考字幕: ['A young girl colors in a coloring book with a choice of many colors from a container.', 'A little girl is carefully coloring in the pictures of a coloring book.', 'The little girl is using colored pencils to decorate a coloring book.', 'Little girl coloring pictures indoors.', 'A girl colors with markers.']
+已儲存中間結果到 temp_results_3600.txt
+
+進度: 3900/31014 (12.57%)
+預估剩餘時間: 0小時 54分鐘 23秒
+最新生成的字幕: people standing near a river with a truck in the background
+參考字幕: ['A group of eastern women and children standing under a blue sky near a pool of water and forest.', 'A group of women and children stand together beside a vehicle and a river.', 'A group of women and young children on the banks of a waterway.', 'A group of Indian people are next to a vehicle and some water.', 'Two young boys amidst a crowd in India.']
+已儲存中間結果到 temp_results_3900.txt
+
+進度: 4200/31014 (13.54%)
+預估剩餘時間: 0小時 53分鐘 41秒
+最新生成的字幕: two men playing guitars
+參考字幕: ['The man in gray trousers is playing a black guitar, and the man in blue jeans is playing a black and blue guitar.', 'A middle-aged man is holding an acoustic guitar while a man wearing a hat is holding an electric bass.', 'Two men play the acoustic guitar and the bass.', 'Two middle-aged men play guitar on a stage.', 'Two older men playing guitar and bass.']
+已儲存中間結果到 temp_results_4200.txt
+
+進度: 4500/31014 (14.51%)
+預估剩餘時間: 0小時 53分鐘 3秒
+最新生成的字幕: a group of people standing around a room
+參考字幕: ['A group of people in a white room wearing costumes one girl is wearing white toga.', 'A group of young people get into costume in a sparse room.', 'A group of girls are changing in the dressing rom.', 'Six people wear costumes in a white room.', 'A group of people in various costumes.']
+已儲存中間結果到 temp_results_4500.txt
+
+進度: 4800/31014 (15.48%)
+預估剩餘時間: 0小時 52分鐘 21秒
+最新生成的字幕: a young boy in a blue shirt
+參考字幕: ['A baby in a blue outfit is looking at a mop bucket and holding the mop with his right hand.', 'A child in a blue sleep suit plays with a red mop in a red bucket.', 'A small child in pajamas is holding onto a mop in a bucket.', 'A baby in blue pajamas plays with a mop and bucket.', 'A baby is playing with cleaning supplies.']
+已儲存中間結果到 temp_results_4800.txt
+
+進度: 5100/31014 (16.44%)
+預估剩餘時間: 0小時 51分鐘 42秒
+最新生成的字幕: a girl in a red coat
+參考字幕: ['A little girl in a red outfit is lying on her side in a strange position.', 'A girl wearing a red snowsuit slides on her back on the ice.', 'A young girl in a red snowsuit sliding across the ice.', 'A smiling girl in a red outfit and mittens.', 'A little girl in red is down on the ice']
+已儲存中間結果到 temp_results_5100.txt
+
+進度: 5400/31014 (17.41%)
+預估剩餘時間: 0小時 51分鐘 5秒
+最新生成的字幕: a building with a sign
+參考字幕: ["A woman is wearing a white dress in a store that has some decals on the outside, and is in the middle of two other stores, one that says welcome, and one that's called Largo.", 'A woman is standing near three stores, two have beautiful artwork and the other store has Largo written on it.', 'A little girl with a white dress is standing under the doorway of a store.', 'A storefront with poor artist rendition of street art.', 'A girl is standing in a store next to other stores.']
+已儲存中間結果到 temp_results_5400.txt
+
+進度: 5700/31014 (18.38%)
+預估剩餘時間: 0小時 50分鐘 25秒
+最新生成的字幕: a group of people standing around a luggage claim
+參考字幕: ['There is an Asian woman in a black suit who is standing around and waiting at an airport.', 'A woman of Asian looking descent in a black outfit standing in the airport baggage area.', 'People are waiting with their luggage at an airport check-in.', 'People in a airport with luggage waiting on something.', 'A bunch of travelers stand around.']
+已儲存中間結果到 temp_results_5700.txt
+
+進度: 6000/31014 (19.35%)
+預估剩餘時間: 0小時 49分鐘 46秒
+最新生成的字幕: a woman standing in a field of flowers
+參考字幕: ['A woman is standing in a field of tulips holding onto a coat and cellphone.', 'The woman is standing in a field of colorful tulips.', 'A lady stands in a field of tulips looking unamused.', 'A woman stands in a field of flowers.', 'Woman standing in a field of tulips']
+已儲存中間結果到 temp_results_6000.txt
+
+進度: 6300/31014 (20.31%)
+預估剩餘時間: 0小時 49分鐘 8秒
+最新生成的字幕: a woman kneeling down on the ground
+參考字幕: ['A blond women holding a red box is writing on the ground with white chalk.', 'A young woman writes a message in chalk on the pavement.', 'A petite woman writing on the ground in chalk.', 'A woman writes on the ground with white chalk.', 'A boy writes on the ground using white chalk.']
+已儲存中間結果到 temp_results_6300.txt
+
+進度: 6600/31014 (21.28%)
+預估剩餘時間: 0小時 48分鐘 30秒
+最新生成的字幕: a red aw aw
+參考字幕: ['The back of two women looking down a street that has a pizzeria, a restaurant, several people, a black car, and two red cars.', 'People walking through an intersection of a city consisting of a grill and pizzeria.', 'People walking outside into a street.', 'Two women crossing an intersection.', 'Two women crossing road in Paris.']
+已儲存中間結果到 temp_results_6600.txt
+
+進度: 6900/31014 (22.25%)
+預估剩餘時間: 0小時 47分鐘 54秒
+最新生成的字幕: a football player running with the ball
+參考字幕: ['Football player holds the ball securely to his chest while running downfield.', 'Athlete running with a football, wearing protective gear.', 'A football player in yellow jersey running with a ball.', 'A football player running with the ball during a game.', 'A football player running on the field.']
+已儲存中間結果到 temp_results_6900.txt
+
+進度: 7200/31014 (23.22%)
+預估剩餘時間: 0小時 47分鐘 16秒
+最新生成的字幕: a street with a lot of cars
+參考字幕: ['A group of officers on motorcycles driving down a city road.', 'Police patrolled the downtown streets on their motorcycles.', 'Police are driving down the street in formation.', 'Police on motorcycles are escorting a motorcade.', 'Police escorting someone or something.']
+已儲存中間結果到 temp_results_7200.txt
+
+進度: 7500/31014 (24.18%)
+預估剩餘時間: 0小時 46分鐘 38秒
+最新生成的字幕: a dog being groomed
+參考字幕: ['One person holds a brown and white puppy while another uses a blow dryer to dry its fur.', 'Two sets of hands blow drying a small brown and white puppy.', 'A small brown and white dog about to get its hair dried.', 'Small dog being dried by a handheld hair blower.', 'A puppy is getting dry with a blow dryer']
+已儲存中間結果到 temp_results_7500.txt
+
+進度: 7800/31014 (25.15%)
+預估剩餘時間: 0小時 46分鐘 1秒
+最新生成的字幕: a tree in the field
+參考字幕: ['A black dog follows a group of sheep walking in a field of grass.', 'Black dog following a herd of sheep down a grassy lane.', 'A black sheepdog is guiding sheep along a grassy path.', 'A sheepdog is herding sheep down a grassy path.', 'A dog chasing sheep down a county road']
+已儲存中間結果到 temp_results_7800.txt
+
+進度: 8100/31014 (26.12%)
+預估剩餘時間: 0小時 45分鐘 28秒
+最新生成的字幕: a man holding a child
+參考字幕: ['A father is holding up his daughter so she could see over a fence.', 'Balding man holding toddler high up outdoors on a cloudy day.', 'A man holding and playing with a blond little girl.', 'A man holding a little girl up in the air outside.', 'Man holding blond-haired toddler up in the air.']
+已儲存中間結果到 temp_results_8100.txt
+
+進度: 8400/31014 (27.08%)
+預估剩餘時間: 0小時 44分鐘 49秒
+最新生成的字幕: a boy swimming in a pool
+參考字幕: ['A red-haired girl in a blue T-shirt is swimming underwater in a pool.', 'A child in a blue shirt and orange swim trunks is underwater.', 'A child smiling at the camera while swimming underwater.', 'Child dressed in blue is smiling underwater.', 'A child swims underwater in a pool.']
+已儲存中間結果到 temp_results_8400.txt
+
+進度: 8700/31014 (28.05%)
+預估剩餘時間: 0小時 44分鐘 14秒
+最新生成的字幕: a little girl is playing with a frc
+參考字幕: ['A girl is outside a house with a pink hula hoop spinning around her upper leg.', 'Child playing with a hula hoop on a cement driveway in housing alotment.', 'A young girl stands barefoot on a driveway and uses a hula-hoop.', 'A girl poses on a shady driveway.', 'A girl stands in a driveway.']
+已儲存中間結果到 temp_results_8700.txt
+
+進度: 9000/31014 (29.02%)
+預估剩餘時間: 0小時 43分鐘 37秒
+最新生成的字幕: the truck is yellow
+參考字幕: ['Trucks race around a racetrack, the yellow truck with the number five leads, followed by number 22 and number 29.', 'A yellow truck with Casterol branding leads a white truck and blue truck down the road.', 'A large yellow vehicle leads two others in a race.', 'Trucks race in an obstacle course.', 'Trucks racing']
+已儲存中間結果到 temp_results_9000.txt
+
+進度: 9300/31014 (29.99%)
+預估剩餘時間: 0小時 43分鐘 0秒
+最新生成的字幕: a man in a hospital bed
+參考字幕: ['A man in a beige shirt and tan slacks sits in a chair next to a hospital patient wearing a blue gown who is sitting cross-legged on his hospital bed.', 'Two men in a hospital, one is visiting the other is a patient.', 'A man visiting a friend in the hospital.', 'Two elderly men sitting at the hospital.', 'Two men are waiting at a hospital.']
+已儲存中間結果到 temp_results_9300.txt
+
+進度: 9600/31014 (30.95%)
+預估剩餘時間: 0小時 42分鐘 25秒
+最新生成的字幕: a boy kicking a soccer ball on a field
+參考字幕: ['A young boy runs towards a blue soccer ball in front of a goal.', 'The little kid just missed a soccer kick for the goal', 'A child soccer player runs for a ball near the goal.', 'A little boy wearing a green jersey playing soccer.', 'A child plays soccer.']
+已儲存中間結果到 temp_results_9600.txt
+
+進度: 9900/31014 (31.92%)
+預估剩餘時間: 0小時 41分鐘 47秒
+最新生成的字幕: a woman in a costume
+參考字幕: ['A person in a large pink triangle-shaped costume waves as a man and a woman dressed in matching brightly-colored striped and polka-dotted outfits smile back.', 'A man in a purple mascot costume is standing outside of a store while a man and a woman each wearing flamboyant clothing stand off to the side.', 'Two people dressed like clowns are near a person in an over sized costume of Patrick Star from SpongeBob SquarePants', 'One male and one woman clown looking at a person in a pink triangular shaped costume.', 'Two clowns, a mascot, and an old woman stand in the street in front of a shop.']
+已儲存中間結果到 temp_results_9900.txt
+
+進度: 10200/31014 (32.89%)
+預估剩餘時間: 0小時 41分鐘 11秒
+最新生成的字幕: a man riding a bike
+參考字幕: ['A person wearing a hat and concealing clothing is on a bicycle carrying a large amount of products on the back with a large group of bicyclers behind her.', 'Person on a bike wearing a cone hat, with different items in the front basket of the bike and tied to the back of the bike.', 'A person in a black jacket and white gloves is riding a bike with a bunch of traffic in the background.', 'Woman in a hat and mask on a bike that is full of carpets and other things.', 'An ordinary person that lives in Vietnam.']
+已儲存中間結果到 temp_results_10200.txt
+
+進度: 10500/31014 (33.86%)
+預估剩餘時間: 0小時 40分鐘 33秒
+最新生成的字幕: a bride and groom kissing
+參考字幕: ['The groom has just kiss the bride after they were pronounced man and wife, as she worn her white wedding gown carrying her white and pink bouquet, and as he worn his black tuxedo and white shirt.', "A couple of newlyweds kissing underneath the bride's veil.", 'A man and woman wearing wedding clothes are kissing.', "A bride and groom kiss under the bride's veil.", 'A couple shares a kiss holding a bouquet.']
+已儲存中間結果到 temp_results_10500.txt
+
+進度: 10800/31014 (34.82%)
+預估剩餘時間: 0小時 39分鐘 56秒
+最新生成的字幕: a group of people standing around a table
+參考字幕: ['Several men wearing ethnic hats are watching the photographer in an outdoor market.', 'A group of Indian men are just standing around with their arms crossed.', 'Four men from another country look at the camera.', 'Men wearing hats stand with arms folded.', 'A group of men stand outside.']
+已儲存中間結果到 temp_results_10800.txt
+
+進度: 11100/31014 (35.79%)
+預估剩餘時間: 0小時 39分鐘 18秒
+最新生成的字幕: a woman in a black jacket
+參考字幕: ['A group of people in an urban setting are all looking in the same direction.', 'Smiling African-American man near a jewelry stall.', 'Street vendors selling there wares on a sidewalk.', 'A woman wearing a black shirt is laughing.', 'A black man with black hair laughing.']
+已儲存中間結果到 temp_results_11100.txt
+
+進度: 11400/31014 (36.76%)
+預估剩餘時間: 0小時 38分鐘 42秒
+最新生成的字幕: a boy and a boy playing in a pond
+參考字幕: ['Two young boys playing with a soccer ball in a pond in the middle of a grassy field.', 'There are 2 shirtless boys jumping up from some water looking at a soccer ball.', 'A group of boys playing soccer in a muddy wet field.', 'Two boys are playing soccer in a muddy marsh', 'Two boys play soccer in the rain.']
+已儲存中間結果到 temp_results_11400.txt
+
+進度: 11700/31014 (37.72%)
+預估剩餘時間: 0小時 38分鐘 5秒
+最新生成的字幕: a man doing a trick on a bike
+參考字幕: ['The man wearing a red shirt is performing an aerial stunt on a bicycle.', 'A man wearing a helmet is doing a stunt with his BMX bike.', 'A biker is doing an aerial trick on his bike.', 'A bicyclist performing a trick in midair.', 'A guy does a trick in the air.']
+已儲存中間結果到 temp_results_11700.txt
+
+進度: 12000/31014 (38.69%)
+預估剩餘時間: 0小時 37分鐘 28秒
+最新生成的字幕: a dog carrying a wooden stick in its mouth
+參考字幕: ['There is a black and white dog with a large branch running in the field.', 'A black and white dog is running in grass carrying a big stick.', 'A black and white dog carries a huge stick on the green grass.', 'A dog with a large stick runs across the grass.', 'A dog carries a large stick through the field.']
+已儲存中間結果到 temp_results_12000.txt
+
+進度: 12300/31014 (39.66%)
+預估剩餘時間: 0小時 36分鐘 52秒
+最新生成的字幕: a man climbing a wall
+參考字幕: ['A man is leaning out of a window to paint some decorative iron white.', 'An older white man with a blue bucket painting a window cage.', 'An old man painting with a blue bucket.', 'Old man carpenter painting a fence.', 'A man paints a gate on a window.']
+已儲存中間結果到 temp_results_12300.txt
+
+進度: 12600/31014 (40.63%)
+預估剩餘時間: 0小時 36分鐘 15秒
+最新生成的字幕: a man playing a musical instrument
+參考字幕: ['Two men are playing instruments, the man on the left is playing the violin and the one on the right a harp.', 'On the left, a man is playing a violin; on the right, a man is playing a harp.', 'Two Latinos playing instruments; one on the violin and the other on harp.', 'Two musicians are playing a duet one on a harp and the other on a violin.', 'Two men playing instruments.']
+已儲存中間結果到 temp_results_12600.txt
+
+進度: 12900/31014 (41.59%)
+預估剩餘時間: 0小時 35分鐘 39秒
+最新生成的字幕: a group of people standing around a bus stop
+參考字幕: ['A number of people wait at a bus stop looking towards the sun, low in the sky.', 'A man is sitting on a bench and smoking in front of other people.', 'A man on a bench smoking and waiting for the bus to come.', 'Group of men and women waiting for a bus.', 'Old man smoking cigarette on bench.']
+已儲存中間結果到 temp_results_12900.txt
+
+進度: 13200/31014 (42.56%)
+預估剩餘時間: 0小時 35分鐘 3秒
+最新生成的字幕: a snowboarder in the air
+參考字幕: ['A skier is jumping in the air over a snowfield near a mountain range.', 'A skier flies through the air in front of a mountainous landscape.', 'A skier performs a high jump in a snow-covered valley.', 'A snow skier is taking a huge leap over a snow slope.', 'Skier in red jumping high in the air over the snow.']
+已儲存中間結果到 temp_results_13200.txt
+
+進度: 13500/31014 (43.53%)
+預估剩餘時間: 0小時 34分鐘 27秒
+最新生成的字幕: a group of people playing a game
+參考字幕: ['Children in colorful costumes are performing on a stage beside a white building.', 'A group of children in costume, learning a dance from an instructor.', 'Little kids with colorful skirts over their clothes are dancing.', 'Children and adults in bright colored clothes are dancing.', 'The people are making hand gestures.']
+已儲存中間結果到 temp_results_13500.txt
+
+進度: 13800/31014 (44.50%)
+預估剩餘時間: 0小時 33分鐘 51秒
+最新生成的字幕: a man on a bike
+參考字幕: ['A man has wrecked his racing bike in the dirt with five spectators behind a rope.', 'A dirt bike flies upside down as the rider tumbles toward the dirt.', 'A person falling off a dirt bike in the middle of a dirt bike race.', 'Bike racer number 661 wrecks on dirt racetrack.', 'The biker falls while the boys watch.']
+已儲存中間結果到 temp_results_13800.txt
+
+進度: 14100/31014 (45.46%)
+預估剩餘時間: 0小時 33分鐘 15秒
+最新生成的字幕: a car is driving
+參考字幕: ['Spectators are taking pictures of a blue rally car that is driving around a bend in the track.', 'A group of fans cheer the blue mountain racing car as it rounds the corner.', 'Blue race car raises dust cloud on road as spectators take photos.', 'A blue Subaru rally car turning a corner with spectators.', 'A blue race car is coming around a corner.']
+已儲存中間結果到 temp_results_14100.txt
+
+進度: 14400/31014 (46.43%)
+預估剩餘時間: 0小時 32分鐘 39秒
+最新生成的字幕: a woman in a red dress
+參考字幕: ['Girl in red skirt jumps on sidewalk in front of jukebox painting', 'A girl in a red and black dress is posing in front of a mural.', 'A little girl jumps in the air next to a jukebox mural.', 'A girl jumping in front of a jukebox mural.', 'A young girl in a red dress in midair']
+已儲存中間結果到 temp_results_14400.txt
+
+進度: 14700/31014 (47.40%)
+預估剩餘時間: 0小時 32分鐘 4秒
+最新生成的字幕: a man working on a bike
+參考字幕: ['A woman in a red shirt is examining one of many bicycles while a man in a blue shirt is adjusting a wheel.', 'A woman in a bicycle store where two men are working on a bike.', 'A man is fixing the wheel of a bicycle inside a cycling store.', 'People shopping in a bike shop.', 'A man works in a bike shop.']
+已儲存中間結果到 temp_results_14700.txt
+
+進度: 15000/31014 (48.37%)
+預估剩餘時間: 0小時 31分鐘 28秒
+最新生成的字幕: a man is falling off a bull
+參考字幕: ['A bull is tossing a rider off him while several other cowboys try to restrain it.', 'A man is being thrown off a bull during a rodeo.', 'Three people wrestle with a bull at a rodeo.', 'Man in purple shirt falls off bulls head.', 'Four men in a rodeo with a bull bucking']
+已儲存中間結果到 temp_results_15000.txt
+
+進度: 15300/31014 (49.33%)
+預估剩餘時間: 0小時 30分鐘 53秒
+最新生成的字幕: the water is calm
+參考字幕: ['Three dogs walking away on the waters edge of the shore.', 'Three large dogs are playing in the water at the beach.', 'Three dogs rush to chase a ball thrown into the surf.', 'Three dogs are running in the water on the beach.', 'Three dogs entering the ocean.']
+已儲存中間結果到 temp_results_15300.txt
+
+進度: 15600/31014 (50.30%)
+預估剩餘時間: 0小時 30分鐘 17秒
+最新生成的字幕: a little girl in a tutue
+參考字幕: ['A young girl in a red dress and black shirt with two purple water balloons.', 'A little girl is wearing a flowing dress and carrying water balloons.', 'The girl is wearing a pink tutu and walking through the grass.', 'A young girl in a pink dress with something in her hand.', 'A young girl wearing a pink tutu.']
+已儲存中間結果到 temp_results_15600.txt
+
+進度: 15900/31014 (51.27%)
+預估剩餘時間: 0小時 29分鐘 41秒
+最新生成的字幕: the birds are in the water
+參考字幕: ['Men working with electrical equipment on a building.', 'Excavation of the ruins of a ancient temple.', 'Men trying to drain the water from the grid.', 'Some men are working with hoses and water.', 'Three men are working outside in the sun.']
+已儲存中間結果到 temp_results_15900.txt
+
+進度: 16200/31014 (52.23%)
+預估剩餘時間: 0小時 29分鐘 4秒
+最新生成的字幕: a woman sitting on a bench with a cup
+參考字幕: ['A woman is propping her leg up revealing cleavage, a great tatoo, and some kicking boots.', 'A woman in black leggings and beige cowboy boots.', 'A girl dressed in black is posing for the camera.', 'A woman in black clothes with one leg up.', 'A woman dressed in black.']
+已儲存中間結果到 temp_results_16200.txt
+
+進度: 16500/31014 (53.20%)
+預估剩餘時間: 0小時 28分鐘 29秒
+最新生成的字幕: a man cleaning a kitchen
+參考字幕: ['A person sweeps a red tiled floor under a sign displaying The Tile Shop.', 'A man wearing black sweeping brown tile floors outside of a tile shop.', 'A man sweeping the sidewalk in front of a store.', 'A man is sweeping a tile floor with a broom.', 'A man in a dark outfit is sweeping a floor.']
+已儲存中間結果到 temp_results_16500.txt
+
+進度: 16800/31014 (54.17%)
+預估剩餘時間: 0小時 27分鐘 54秒
+最新生成的字幕: a man in a white shirt
+參考字幕: ['A man in tan capris, brown sandals, and a white t-shirt, crouches on the trunk of a tree.', 'A man in a white shirt and khaki pants crouches on a fallen tree trunk.', 'A man sitting in the middle of branches on a fallen tree.', 'A man crouched in the bare branches of a fallen tree.', 'A man is crouched on top of a horizontal tree.']
+已儲存中間結果到 temp_results_16800.txt
+
+進度: 17100/31014 (55.14%)
+預估剩餘時間: 0小時 27分鐘 18秒
+最新生成的字幕: a woman carrying bags
+參考字幕: ['A woman in a purple sweater and bucket hat is on a sidewalk carrying many shopping bags.', 'A woman in a bucket hat and purple shirt carries many shopping bags.', 'A woman in a purple sweater is holding three bags on a street.', 'A woman in a purple shirt carries three full shopping bags.', 'A woman in a purple shirt carries shopping bags.']
+已儲存中間結果到 temp_results_17100.txt
+
+進度: 17400/31014 (56.10%)
+預估剩餘時間: 0小時 26分鐘 42秒
+最新生成的字幕: a man wearing a hat
+參考字幕: ['Two Mexican guys standing on outskirts of a field, one has a machete knife and the other has cigarette in his mouth.', 'Two dark-skinned men, one of them with a knife, stand in front of some foliage.', 'A man is holding a machete while another man who is smoking is looking elsewhere.', 'Two men are in the jungle, one is smoking and the other is using a machete.', 'Two men, one smoking a cigarette, getting dirty while trimming trees.']
+已儲存中間結果到 temp_results_17400.txt
+
+進度: 17700/31014 (57.07%)
+預估剩餘時間: 0小時 26分鐘 7秒
+最新生成的字幕: a group of people
+參考字幕: ['A group of military men are waiting for instructions from a man and a woman both wearing black suits.', 'A man and a woman in black business suits are addressing 7 military personnel.', 'Businesswoman and man speaking together in front of awaiting army personnel.', 'A man and woman are having a discussion while military members look on.', 'A man and a woman are speaking near a group of seven soldiers.']
+已儲存中間結果到 temp_results_17700.txt
+
+進度: 18000/31014 (58.04%)
+預估剩餘時間: 0小時 25分鐘 31秒
+最新生成的字幕: a man in a kilt
+參考字幕: ['Photo is of a Scottish parade leader followed by his troupe, while they all march down the street.', 'Band leader motions with a stick while wearing a plaid kilt and cape.', 'The man in the kiln has an object in his hand to direct the band.', 'Man in scottish garb in a parade', 'Men walking in Scottish parade.']
+已儲存中間結果到 temp_results_18000.txt
+
+進度: 18300/31014 (59.01%)
+預估剩餘時間: 0小時 24分鐘 55秒
+最新生成的字幕: a group of people standing in a room
+參考字幕: ["Several people are enjoying each other's company at a house party.", 'Small groups of people talk in separate rooms.', 'Two women staring at a party in the kitchen', 'A house party full of young people.', 'People gathered in a house talking.']
+已儲存中間結果到 temp_results_18300.txt
+
+進度: 18600/31014 (59.97%)
+預估剩餘時間: 0小時 24分鐘 19秒
+最新生成的字幕: a man on a sler
+參考字幕: ['A bearded man wearing a blue jacket rides his snow sled pulled by his two dogs.', 'Man in blue coat is being pulled in a dog sled by two dogs.', 'A man in a blue coat is propelled on his sled by two dogs.', 'A man us using his two dogs to sled across the snow.', 'Two Huskies pull a sled with a man in a blue jacket.']
+已儲存中間結果到 temp_results_18600.txt
+
+進度: 18900/31014 (60.94%)
+預估剩餘時間: 0小時 23分鐘 44秒
+最新生成的字幕: a man sitting at a desk using a laptop
+參考字幕: ['A man in a white shirt types at a desktop, near a window and black chair.', 'A man is a white shirt sits under a lamp typing on a laptop computer.', 'A man is a white sweater is sitting at a desk using a computer.', 'A man with glasses typing on his laptop computer', 'A man working on his computer.']
+已儲存中間結果到 temp_results_18900.txt
+
+進度: 19200/31014 (61.91%)
+預估剩餘時間: 0小時 23分鐘 9秒
+最新生成的字幕: a woman standing at a podium
+參考字幕: ['A woman in a green jacket is making a speech with a crowd standing behind her.', 'Women standing at a podium with a crowd and building in the background.', 'A woman giving a speech in front of a crowd.', 'Nancy Pelosi is giving a speech.', 'Nancy Pelosi is giving a speech.']
+已儲存中間結果到 temp_results_19200.txt
+
+進度: 19500/31014 (62.87%)
+預估剩餘時間: 0小時 22分鐘 33秒
+最新生成的字幕: a group of people skiing down a mountain
+參考字幕: ['A ski instructor wearing a orange and white jacket with orange pants is instructing eleven young children at a ski resort, with white snow all over the ground, and skiers and trees in the background.', 'A ski instructor in a red snowsuit addressing a group of small skiers.', "The children's ski class is lined up listening to the instructor.", 'A man in a red coat is with the children on the ski slopes.', 'Group of young children skiing on ice']
+已儲存中間結果到 temp_results_19500.txt
+
+進度: 19800/31014 (63.84%)
+預估剩餘時間: 0小時 21分鐘 57秒
+最新生成的字幕: a group of people in costumes
+參考字幕: ['People in colorful, multicolored costumes hold hands during a street parade.', 'People dressed up in festive costumes and holding hands.', 'People are wearing bright colored costumes.', 'Men and women in colorful costumes dancing.', 'Very colorful people dancing in a parade.']
+已儲存中間結果到 temp_results_19800.txt
+
+進度: 20100/31014 (64.81%)
+預估剩餘時間: 0小時 21分鐘 22秒
+最新生成的字幕: a woman flying a kite
+參考字幕: ['A woman in a brown shirt and black pants is pushing someone in a wheelchair down a tree lined street on a sunny day.', 'A woman with long curly brown hair pushing someone in a wheelchair down a street filled with people.', 'A woman pushing another person in a wheelchair on a large street outside.', 'A woman dressed in dark colors pushing someone in a wheelchair.', 'A woman pushing someone in a wheelchair in a park.']
+已儲存中間結果到 temp_results_20100.txt
+
+進度: 20400/31014 (65.78%)
+預估剩餘時間: 0小時 20分鐘 46秒
+最新生成的字幕: a yellow cab is driving down the street
+參考字幕: ['A woman wearing a yellow blouse is walking on a city sidewalk while a cab whizzes by.', 'A woman in yellow walking while a bright yellow car passes near her.', 'A woman in yellow walks next to a tree in the city.', 'A woman in yellow is walking outside of a building.', 'Woman in yellow walking down a sidewalk.']
+已儲存中間結果到 temp_results_20400.txt
+
+進度: 20700/31014 (66.74%)
+預估剩餘時間: 0小時 20分鐘 11秒
+最新生成的字幕: a man singing into a microphone
+參考字幕: ['A man in a rust-colored hat and brown shirt, talking into a microphone.', 'A Man in a brown shirt and hat, singing outside with a microphone.', 'This Black Dude, in the Brown Shirt, is singing a song.', 'A male with a hat is performing with a microphone.', 'A man in a red hat sings into a microphone.']
+已儲存中間結果到 temp_results_20700.txt
+
+進度: 21000/31014 (67.71%)
+預估剩餘時間: 0小時 19分鐘 35秒
+最新生成的字幕: a red car
+參考字幕: ['A group of firefighters and other workers attempts to push a red car that has been flipped back onto its wheels.', 'A group of firemen and officials prepare to turn a car right side after a crash.', 'A group of men try to tip a car back into proper form.', 'Emergency personnel responding to a car accident.', 'Rescue workers surrounding an overturned red car.']
+已儲存中間結果到 temp_results_21000.txt
+
+進度: 21300/31014 (68.68%)
+預估剩餘時間: 0小時 19分鐘 0秒
+最新生成的字幕: a man holding a microphone
+參考字幕: ['A man in a blue button up shirt making a speech with a sign next to him saying, "no more U.S. dollars to Israeli pirates and murderers."', 'A man speaks into a microphone next to a sign concerning the relationship between the United States and Israel.', 'Palestinians demonstrating at Gaza Street amid strong sanctions by the Israel government.', 'Former New Mexico governor, Bill Richardson in the middle east giving a speech.', 'The man in the blue shirt is presenting a speech about Palestinian rights.']
+已儲存中間結果到 temp_results_21300.txt
+
+進度: 21600/31014 (69.65%)
+預估剩餘時間: 0小時 18分鐘 24秒
+最新生成的字幕: a bus on the street
+參考字幕: ["A man wearing black and talking on a cellphone walks past a public train stop which features a men's fragrance ad on its side.", "A man wearing a black coat is walking by an advertisement for men's cologne.", 'A man in a black dress is walking near a poster in a platform.', 'A man walking pass a adverting poster.', 'Man walking down into subway.']
+已儲存中間結果到 temp_results_21600.txt
+
+進度: 21900/31014 (70.61%)
+預估剩餘時間: 0小時 17分鐘 48秒
+最新生成的字幕: a man sitting on a bench
+參考字幕: ['A casually dressed black man smoking a cigarette sitting on a bench next to a large Calvin Klein advertisement.', 'Man in a pink shirt sitting in a bus area pickup with a large Calvin Klein ad of a black man in the background.', 'A man sitting down at a bus stop with a Calvin Klein ad behind him.', 'A black man with a pink shirt sits a bus stop smoking a cigarette.', 'A black man sitting on a bench, looking at his cellphone.']
+已儲存中間結果到 temp_results_21900.txt
+
+進度: 22200/31014 (71.58%)
+預估剩餘時間: 0小時 17分鐘 13秒
+最新生成的字幕: a blue wall
+參考字幕: ['A woman serves out of a drive through window of a Nathans.', 'The employee of the pizza shop is wearing white gloves.', 'A pizza employee waiting for his next drive up customer', 'A worker in a pizza store waiting to get customers.', 'A black woman at a pizza restaurant.']
+已儲存中間結果到 temp_results_22200.txt
+
+進度: 22500/31014 (72.55%)
+預估剩餘時間: 0小時 16分鐘 37秒
+最新生成的字幕: a group of people walking down a street
+參考字幕: ['A woman in a black tank top and shorts wearing a bright blue hat walks with another woman wearing a pink crossover tank top and a light pink hat walk by an outside eatery.', 'Two people in bright colored hats walk down a crowded street.', 'Two women with very large hats are walking on the sidewalk.', 'Two women with colorful hats walking down a sidewalk.', 'Two ladies in large sunhats walk down the street.']
+已儲存中間結果到 temp_results_22500.txt
+
+進度: 22800/31014 (73.52%)
+預估剩餘時間: 0小時 16分鐘 1秒
+最新生成的字幕: a man standing in front of a store
+參考字幕: ['A man holding a large brown bag stands in front of an entryway, by a large advertisement featuring a child wearing headphones.', 'An elderly man, holding a package is standing in front of a sign that has a girl with headphones.', 'An older, bald man is standing on the street holding a package.', 'An old man with a package poses in front of an advertisement.', 'An old man is standing in front of an ad on the sidewalk.']
+已儲存中間結果到 temp_results_22800.txt
+
+進度: 23100/31014 (74.48%)
+預估剩餘時間: 0小時 15分鐘 26秒
+最新生成的字幕: a group of people standing around a building
+參考字幕: ['A middle-aged man with a backpack playfully pretends to box with younger child who does not look phased.', 'A smiling man wearing a backpack holds his fists up in front of a boy in glasses.', 'An adult Asian male instructs a group of Asian children.', 'An Asian man in a black shirt making a fighting pose', 'A group of tourists is excited.']
+已儲存中間結果到 temp_results_23100.txt
+
+進度: 23400/31014 (75.45%)
+預估剩餘時間: 0小時 14分鐘 50秒
+最新生成的字幕: a group of people sitting on the sidewalk
+參考字幕: ['A man sitting indian style in front of a ground painting, there are two men and a woman sitting on the curb in front of him and the picture.', 'Two men and a woman sit on a sidewalk and watch an artist draw a detailed picture on the ground.', 'A group of artists smoke cigarettes and sketch chalk drawings on the streets.', 'Three people watch a fourth draw a chalk portrait on the street.', 'One dog playing with a blond girl.']
+已儲存中間結果到 temp_results_23400.txt
+
+進度: 23700/31014 (76.42%)
+預估剩餘時間: 0小時 14分鐘 15秒
+最新生成的字幕: a group of people standing under a tent
+參考字幕: ['There is one person sitting under an umbrella and two other sitting in the sun.', 'Three people appear to be waiting for something, one has an umbrella.', 'A woman with sunglasses on sits under a red umbrella', 'A woman in a yellow jacket holding a red umbrella.', 'A woman wearing glasses holding a red umbrella.']
+已儲存中間結果到 temp_results_23700.txt
+
+進度: 24000/31014 (77.38%)
+預估剩餘時間: 0小時 13分鐘 40秒
+最新生成的字幕: a group of people walking down a sidewalk
+參考字幕: ['Four young ladies are talking together on the sidewalk in front of a shop.', 'A town street is filled with people along with shops.', 'People are standing on the sidewalk of a street.', 'A group of women talk outside of a store.', 'A group of woman on a sidewalk.']
+已儲存中間結果到 temp_results_24000.txt
+
+進度: 24300/31014 (78.35%)
+預估剩餘時間: 0小時 13分鐘 4秒
+最新生成的字幕: a group of people sitting on the sidewalk
+參考字幕: ['A crowd sits along side a building as a man talks to them and another group of men hang out nearby on a sidewalk.', 'People gather in a small alleyway, some fancy, and some in street clothes.', 'A group of men in tuxedos are talking to people sitting on the sidewalk.', 'Many people sit, some stand outside of a large brick building.', 'A group of people are sitting and a man is talking to them.']
+已儲存中間結果到 temp_results_24300.txt
+
+進度: 24600/31014 (79.32%)
+預估剩餘時間: 0小時 12分鐘 29秒
+最新生成的字幕: a street scene
+參考字幕: ['People are in an area where there is lighting illuminating the area.', 'A group of people are in front of a t-shirt shop in an alley.', 'Several people gather outside a street market at night.', 'People stopping at busy street looking at vendor carts.', 'People gathering at a street vendor.']
+已儲存中間結果到 temp_results_24600.txt
+
+進度: 24900/31014 (80.29%)
+預估剩餘時間: 0小時 11分鐘 54秒
+最新生成的字幕: two women walking in the street
+參考字幕: ['An asian couple are heavily dressed in multiple layers, included are hats, long-sleeve shirts, gloves and long pants.', 'Two Asian women wearing traditional head garb survey a garden.', 'Two people in a garden wearing hats and protective gloves.', 'Two workers wearing hats are standing in a field.', 'Two Asian women working in a sunny garden.']
+已儲存中間結果到 temp_results_24900.txt
+
+進度: 25200/31014 (81.25%)
+預估剩餘時間: 0小時 11分鐘 19秒
+最新生成的字幕: a group of men sitting on steps
+參考字幕: ['A group of young men clowning around while enjoying a beverage.', 'Four boys posing while one boy sets his drink down.', 'Group of young men posing and holding cans.', 'Five men pose awkwardly on steps.', 'Five young men pose on the steps.']
+已儲存中間結果到 temp_results_25200.txt
+
+進度: 25500/31014 (82.22%)
+預估剩餘時間: 0小時 10分鐘 43秒
+最新生成的字幕: a boy doing a handstant
+參考字幕: ['A man balances on his forearms while a child watches in front of a colorful background.', 'A boy in a white tracksuit is breakdancing on the ground in front of a colorful wall.', 'The breakdancer is wearing a white shirt and gray pants.', 'Children watch a man doing dance moves.', 'A city breakdancer starts to spin.']
+已儲存中間結果到 temp_results_25500.txt
+
+進度: 25800/31014 (83.19%)
+預估剩餘時間: 0小時 10分鐘 8秒
+最新生成的字幕: a boy in a pool
+參考字幕: ['A boy splashes in a pool with his arms out to catch something.', 'A boy in swimming trunks is splashing in a swimming pool.', 'A young boy jumping to catch something in a pool.', 'Boy reaches up while in pool.', 'A boy jumps into the pool.']
+已儲存中間結果到 temp_results_25800.txt
+
+進度: 26100/31014 (84.16%)
+預估剩餘時間: 0小時 9分鐘 33秒
+最新生成的字幕: the railing of the ship
+參考字幕: ['A woman in a bright pink jacket and jeans, with two young children, also in jackets, is on the deck of a yacht using a telescope to look out to sea.', 'A girl wearing a pink jacket and jeans looks through a telescope on a boat while another girl in a pink jacket looks on.', 'A woman and child are on a boat and the woman is looking out into the ocean through a scope.', 'A child is looking through binoculars on a boat while her younger sister waits next to her.', 'One woman and two kids looking out of a telescope on a boat.']
+已儲存中間結果到 temp_results_26100.txt
+
+進度: 26400/31014 (85.12%)
+預估剩餘時間: 0小時 8分鐘 58秒
+最新生成的字幕: a little girl holding a hockey stick and a hockey stick
+參考字幕: ['A young Caucasian girl in a blue Toronto maple leafs jersey holding a hockey stick and hockey puck is on the ground.', 'A small child wearing a blue hockey jersey, holds a hockey stick with a puck near the end of the stick.', 'A young brunette girl wearing a Toronto Maple Leaf shirt is posing with a hockey stick and puck.', 'A young girl around six in a Toronto maple leafs jersey with a kids hockey stick and puck.', 'Small child in Toronto Maple Leafs jersey with a toy hockey stick and puck on the ground.']
+已儲存中間結果到 temp_results_26400.txt
+
+進度: 26700/31014 (86.09%)
+預估剩餘時間: 0小時 8分鐘 23秒
+最新生成的字幕: a man standing on a lawn with a lawn mower
+參考字幕: ['A shirtless male in blue jeans, operates a heavy-duty walk behind lawn mower in front of a brick building.', 'This man is cutting grass next to the building.', 'A man is mowing the lawn of a house shirtless.', 'A man with a hairy chest is mowing a lawn.', 'A guy, outside, mowing the grass.']
+已儲存中間結果到 temp_results_26700.txt
+
+進度: 27000/31014 (87.06%)
+預估剩餘時間: 0小時 7分鐘 48秒
+最新生成的字幕: a man sitting on the ground
+參考字幕: ['A boy in a green shirt is kneeling on the grass looking through some sort of microscope.', 'A young boy using a field microscope to identify a field specimen during a field trip.', 'A kid is examining a slide under a microscope outside.', 'A caucasian boy looking through a microscope outdoors.', 'A child is observing a specimen in a microscope.']
+已儲存中間結果到 temp_results_27000.txt
+
+進度: 27300/31014 (88.02%)
+預估剩餘時間: 0小時 7分鐘 13秒
+最新生成的字幕: a man doing a trick on a skateboard
+參考字幕: ['A man in a short-sleeved black shirt stands with a leg lifted behind him and arms spread in opposite directions on a grated structure.', 'A young adult male, wearing a black shirt and black pants, balances on one leg atop modern architecture.', 'A male ballet dancer in black poses on a rooftop in front of a brown building.', 'A man striking a ballet pose on a rooftop.', 'The man in black is posing for a picture.']
+已儲存中間結果到 temp_results_27300.txt
+
+進度: 27600/31014 (88.99%)
+預估剩餘時間: 0小時 6分鐘 38秒
+最新生成的字幕: concrete wall by the water
+參考字幕: ['Two girls draw on cement with chalk with the ocean in the background.', 'Two girls drawing sailboats with chalk on the side of concrete.', 'Two young girls are drawing on a wall with sidewalk chalk.', 'Two young girls write with chalk near a body of water.', 'Two young girls drawing with chalk on concrete']
+已儲存中間結果到 temp_results_27600.txt
+
+進度: 27900/31014 (89.96%)
+預估剩餘時間: 0小時 6分鐘 3秒
+最新生成的字幕: a woman wearing a red sweater
+參考字幕: ['Two girls watch an experiment unfold as one of the girls pours a liquid into a beaker.', 'Two females are in a chemistry classroom; one is pouring a solution into a beaker.', 'Two girls carefully squirt clear liquid into a chemistry measuring glass.', 'A girl is pouring a liquid into a beaker while another girl looks on.', 'Two girls watch a reaction while mixing liquids on a lab table.']
+已儲存中間結果到 temp_results_27900.txt
+
+進度: 28200/31014 (90.93%)
+預估剩餘時間: 0小時 5分鐘 28秒
+最新生成的字幕: a person parading in the ocean
+參考字幕: ['These fine people are kite surfing, but doing it in the background of this photo.', 'Two para jumpers are gliding through the air over a beautiful blue ocean.', 'Birds flying above the rolling waves of the ocean.', 'Person parasailing with a board in the ocean.', 'A parachutist landing in the ocean.']
+已儲存中間結果到 temp_results_28200.txt
+
+進度: 28500/31014 (91.89%)
+預估剩餘時間: 0小時 4分鐘 53秒
+最新生成的字幕: a group of people sitting around a table
+參考字幕: ['A group of people sitting around a rectangular table having either pieces of paper or laptops in front of them.', '11 men and women sit around a table eating, while 1 woman bends over in the background.', 'A group of men and women are sitting at a long table with papers.', 'A bunch of people gathered around a long table.', 'Dinner and decisions, with the crew.']
+已儲存中間結果到 temp_results_28500.txt
+
+進度: 28800/31014 (92.86%)
+預估剩餘時間: 0小時 4分鐘 18秒
+最新生成的字幕: a wrestling match
+參考字幕: ['2 wrestlers, one in dark blue on top and the one being pushed over on bottom in gray and red.', 'Two opposing wrestlers competing to pin one another.', 'Two men are engaged in a wrestling competition.', 'Two high school wrestlers are wrestling.', 'Two wrestlers wrestling in a gym.']
+已儲存中間結果到 temp_results_28800.txt
+
+進度: 29100/31014 (93.83%)
+預估剩餘時間: 0小時 3分鐘 43秒
+最新生成的字幕: the stage is dark
+參考字幕: ['Five men stand in a spotlight, some with an arm raised, on a stage with a drum kit and other musical instruments behind them.', 'A band of musicians on stage waving and saluting to the audience off-camera.', 'Five men standing on a music set smile and wave at an unseen audience.', '5 adult men standing on stage after a concert.', 'Five people on a stage are waving to a crowd.']
+已儲存中間結果到 temp_results_29100.txt
+
+進度: 29400/31014 (94.80%)
+預估剩餘時間: 0小時 3分鐘 7秒
+最新生成的字幕: a woman holding an umbrella
+參考字幕: ['A woman under a bright umbrella is holding a young boy and tucking her hair behind her ear.', 'A woman holds an umbrella for herself and a young boy.', 'A lady and young boy are underneath the umbrella.', 'A woman with dark hair is holding her baby boy.', 'Mother and son underneath an umbrella']
+已儲存中間結果到 temp_results_29400.txt
+
+進度: 29700/31014 (95.76%)
+預估剩餘時間: 0小時 2分鐘 33秒
+最新生成的字幕: a large tree
+參考字幕: ['Two horseback riders, one on a white horse and one on a dark brown horse, are playing a sport in a grassy area with a large tree in the background.', 'Big brother shows his sister how to play a game in the backyard in the afternoon.', 'Two children riding horses in a rural setting while playing lacrosse', 'There are two people participating in a horseback game.', 'Two horses walking threw the grass.']
+已儲存中間結果到 temp_results_29700.txt
+
+進度: 30000/31014 (96.73%)
+預估剩餘時間: 0小時 1分鐘 57秒
+最新生成的字幕: a man doing a trick on a skateboard
+參考字幕: ['A man who is doing a skateboard grind with black converse shoes and jeans with a blue shirt.', 'A man grinds with his skateboard on a rail with a man in the background watching.', 'A young guy in punk clothing is performing a skateboard trick.', 'Worlds first, and only Middle Eastern skateboard enthusiast.', 'Skateboarder performing a trick']
+已儲存中間結果到 temp_results_30000.txt
+
+進度: 30300/31014 (97.70%)
+預估剩餘時間: 0小時 1分鐘 23秒
+最新生成的字幕: a train platform
+參考字幕: ['A train approaches a stop at an indoor station as several people walk and sit inside the building.', 'A few people are waiting in a subway station, with an arriving car in the distance.', 'A man waits on a subway platform while train is pulling into the station.', 'There are a few people at a subway station and a subway is coming by.', 'A man is waiting for the subway.']
+已儲存中間結果到 temp_results_30300.txt
+
+進度: 30600/31014 (98.67%)
+預估剩餘時間: 0小時 0分鐘 48秒
+最新生成的字幕: a boy jumping into a pool
+參考字幕: ['A boy in red shorts is jumping into a swimming pool with a red chair beside it.', 'A small boy in red shorts leaping into a swimming pool.', 'A young boy in red swim trunks is jumping into a pool.', 'A small boy jumps into a swimming pool.', 'A boy in a red suit jumps into a pool.']
+已儲存中間結果到 temp_results_30600.txt
+
+進度: 30900/31014 (99.63%)
+預估剩餘時間: 0小時 0分鐘 13秒
+最新生成的字幕: a forest filled with trees
+參考字幕: ['The sun is blazing through the trees onto a green tent in the woods.', 'Rays of sunlight shine down on a green tent in the woods.', 'A large tent with a green cover at a campground.', 'Picture of a campsite with a big green tent.', 'A tent and a campsite in a sunlit forest.']
+已儲存中間結果到 temp_results_30900.txt
+
+處理完成! 總共處理 31014/31014 個樣本
+總處理時間: 1小時 0分鐘 8秒
+
+正在儲存所有生成的字幕到 flickr30k_all_captions.txt...
+
+準備評估...
+
+計算BLEU評分...
+
+計算METEOR評分...
+處理METEOR批次 1/32
+處理METEOR批次 2/32
+處理METEOR批次 3/32
+處理METEOR批次 4/32
+處理METEOR批次 5/32
+處理METEOR批次 6/32
+處理METEOR批次 7/32
+處理METEOR批次 8/32
+處理METEOR批次 9/32
+處理METEOR批次 10/32
+處理METEOR批次 11/32
+處理METEOR批次 12/32
+處理METEOR批次 13/32
+處理METEOR批次 14/32
+處理METEOR批次 15/32
+處理METEOR批次 16/32
+處理METEOR批次 17/32
+處理METEOR批次 18/32
+處理METEOR批次 19/32
+處理METEOR批次 20/32
+處理METEOR批次 21/32
+處理METEOR批次 22/32
+處理METEOR批次 23/32
+處理METEOR批次 24/32
+處理METEOR批次 25/32
+處理METEOR批次 26/32
+處理METEOR批次 27/32
+處理METEOR批次 28/32
+處理METEOR批次 29/32
+處理METEOR批次 30/32
+處理METEOR批次 31/32
+處理METEOR批次 32/32
+
+計算ROUGE評分...
+處理ROUGE批次 1/32
+處理ROUGE批次 2/32
+處理ROUGE批次 3/32
+處理ROUGE批次 4/32
+處理ROUGE批次 5/32
+處理ROUGE批次 6/32
+處理ROUGE批次 7/32
+處理ROUGE批次 8/32
+處理ROUGE批次 9/32
+處理ROUGE批次 10/32
+處理ROUGE批次 11/32
+處理ROUGE批次 12/32
+處理ROUGE批次 13/32
+處理ROUGE批次 14/32
+處理ROUGE批次 15/32
+處理ROUGE批次 16/32
+處理ROUGE批次 17/32
+處理ROUGE批次 18/32
+處理ROUGE批次 19/32
+處理ROUGE批次 20/32
+處理ROUGE批次 21/32
+處理ROUGE批次 22/32
+處理ROUGE批次 23/32
+處理ROUGE批次 24/32
+處理ROUGE批次 25/32
+處理ROUGE批次 26/32
+處理ROUGE批次 27/32
+處理ROUGE批次 28/32
+處理ROUGE批次 29/32
+處理ROUGE批次 30/32
+處理ROUGE批次 31/32
+處理ROUGE批次 32/32
+
+評估結果:
+處理的樣本數量: 31014
+BLEU-1 分數: 0.5326
+BLEU-4 分數: 0.1564
+METEOR 分數: 0.3288
+ROUGE-1 分數: 0.2500
+ROUGE-2 分數: 0.0651
+
+結束時間: 2025-03-22 09:30:22
+
+測試完成!

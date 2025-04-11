@@ -1,0 +1,284 @@
+2開始時間: 2025-03-22 06:53:16
+正在載入BLIP模型...
+使用裝置: cuda
+正在載入MSCOCO測試集...
+測試數據集樣本數量: 5000
+
+開始處理圖像和生成字幕...
+
+處理進度: 1/5000
+樣本 1:
+生成的字幕: a man riding a motorcycle down a dirt road
+參考字幕: [['A man with a red helmet on a small moped on a dirt road. ', 'Man riding a motor bike on a dirt road on the countryside.', 'A man riding on the back of a motorcycle.', 'A dirt path with a young person on a motor bike rests to the foreground of a verdant area with a bridge and a background of cloud-wreathed mountains. ', 'A man in a red shirt and a red hat is on a motorcycle on a hill side.']]
+
+處理進度: 100/5000
+樣本 100:
+生成的字幕: two tennis rackets on the ground
+參考字幕: [['the two racquets are close to being identical.', 'a bunch of tennis rackets are tangles together ', 'a couple of tennis rackets are laying together', 'Two tennis rackets next to each other on a table. ', 'One tennis racket is place on top of the other one.\n']]
+
+處理進度: 200/5000
+樣本 200:
+生成的字幕: a dog playing in the snow
+參考字幕: [['two dogs sharing a frisby in their mouth in the snow', 'two dogs on the snow playing frisbee together', 'A couple of dogs fighting over a frisbee.', 'Two dogs fighting over a Frisbee in the snow.', 'there are two dogs trying to get the frisbee']]
+
+處理進度: 300/5000
+樣本 300:
+生成的字幕: a woman cutting a cake
+參考字幕: [['A woman standing over a sheet cake sitting on top of a table.', 'A LADY IS HAVING A CELEBRATION AND LOOKING AT HER CAKE', 'A lady in a hat standing in front of a big cake. ', 'A woman wearing a hat while looking at a cake.', 'A woman in a silly hat cuts the cake.']]
+
+處理進度: 400/5000
+樣本 400:
+生成的字幕: a bathroom with a toilet, sink, and mirror
+參考字幕: [['A bathroom with a sink, toilet, and vanity.', 'tiled bathroom with a couple towels hanging up', 'An old bathroom with a black marble sink.', 'A bathroom with a black sink counter next to a white toilet.', 'the corner of a bathroom with light mint green walls above the tile. ']]
+
+處理進度: 500/5000
+樣本 500:
+生成的字幕: a group of people playing a video game
+參考字幕: [['three boys are enjoying a video game at home', 'three asian friends are playing games on the wii', 'Three young men are playing a video game.', 'A group of people play video games with controllers.', 'Three young guys are playing the Wii together. ']]
+
+處理進度: 600/5000
+樣本 600:
+生成的字幕: a person skiing down a snowy hill
+參考字幕: [['A skier in green pants heading down the slope', 'a man wearing bright green pants and black coat skiing ', 'a person turning while skiing down a snowy hill', 'A man riding skis down a snow covered slope.', 'A person on skis going down a snow covered hill.']]
+
+處理進度: 700/5000
+樣本 700:
+生成的字幕: a man wearing a suit and tie with a blue and white stripe
+參考字幕: [['A MAN WEARING A SUIT AND A TIE STARING ', 'A man wearing a grey suit and tie looking at something.', 'A man with a tie and a suit.', 'A man who is wearing a suit and tie.', 'a man in a tie and a suit is indifferent ']]
+
+處理進度: 800/5000
+樣本 800:
+生成的字幕: a cat sitting on a set of stairs
+參考字幕: [['Two orange cats on steps with a  bench in the background.', 'A cat sits on the steps as another climbs up.', 'A cat is sitting in front of some steps', 'A cat that is sitting on some steps.', 'Two orange tabby cats near a set of stone steps. ']]
+
+處理進度: 900/5000
+樣本 900:
+生成的字幕: a plate with food on it and a glass of wine
+參考字幕: [['The restaurant presents a gourmet breakfast of eggs and toast.', 'A full plate of dessert, bread, and a veggie pizza. ', 'A breakfast plate containing eggs, bread and french toast.', 'A plate of food that includes toast, hash browns and eggs with cheese.', 'A cheese omelet with toast on a plate.']]
+
+處理進度: 1000/5000
+樣本 1000:
+生成的字幕: a plastic container with food inside
+參考字幕: [['Arrows show what to do with the bowls of food.', 'A close up food in plastic containers with a blue plastic fork.', 'Two plastic containers sitting on top of a wooden table.', 'Two dishes of food and several blue arrows.', 'THERE IS SOME SORT OF VEGETABLES IN A BOWL ']]
+
+處理進度: 1100/5000
+樣本 1100:
+生成的字幕: a man holding a tennis racket
+參考字幕: [['a man holding onto a roll of film in one hand and a tennis racket in the other ', 'A man holding a racket on a field.', 'A man on the tennis court holding a racquet.', 'a man in black shirt playing serving at badmitten.', 'a man with a tennis racket gets ready to hit a bad mitton ']]
+
+處理進度: 1200/5000
+樣本 1200:
+生成的字幕: a bunch of bananas
+參考字幕: [['Closeup of various oranges and bananas in pile.', 'Several oranges are laying under a few bananas.', 'A bunch of bananas on top of oranges.', 'There are a lot of bananas and oranges.', 'A pile of oranges sitting under a pile of bananas.']]
+
+處理進度: 1300/5000
+樣本 1300:
+生成的字幕: a plate of food with brocco, potatoes, brocco, and brocco
+參考字幕: [['A smothered fish dinner with wholesome vegetables ', 'A plate of food containing potatoes and broccoli and a sauce.', 'A dinner plate with grilled fish, potatoes and broccoli.', 'A plate with broccoli, potatoes and other foodstuffs', 'The different types of food are sitting on the plate.']]
+
+處理進度: 1400/5000
+樣本 1400:
+生成的字幕: a cat sitting on a blue chair
+參考字幕: [['A furry cat sits on a blue chair. ', 'A cat that is sitting on a green fold out chair.', 'A cat with a somber look while sitting on a chair.', 'Multi colored cat sitting on the seat of a folding chair', 'Calico cat discontentedly lying on blue folding chair.']]
+
+處理進度: 1500/5000
+樣本 1500:
+生成的字幕: a train on the tracks
+參考字幕: [['black and white stripped  poles with stop lights attached', 'A street with lots of lights and traffic lights.', 'A barren street corner with city lights at night. ', 'a street some traffic lights and street lights at night', 'A city road with traffic and street lights', 'a street  traffic light street lights and some buildings']]
+
+處理進度: 1600/5000
+樣本 1600:
+生成的字幕: a man in a red hoodie
+參考字幕: [['A man riding on the back of a motorcycle.', 'a man on a motorcycle indoors attempts to lick the windshield ', 'A man sticks out his tongue while sitting on a motorcycle.', 'A man riding a scooter in the kitchen of a home. ', 'Man making funny gesture with tongue while sitting on motorcycle.']]
+
+處理進度: 1700/5000
+樣本 1700:
+生成的字幕: a woman brushing her teeth
+參考字幕: [['Two women standing next to each other while holding up a mirror.', "Wearing black, two women stand while one holds a toothbrush next to the other's mouth.", "There is a lady checking another lady's teeth.", 'Two women have a mirror and dental instrument.', "A woman holds a mirror and tool up to a woman's mouth."]]
+
+處理進度: 1800/5000
+樣本 1800:
+生成的字幕: a young girl sitting on a bench
+參考字幕: [['Cute girl sitting on a skateboard in the driveway ', 'a girl sitting on a skateboard in the driveway', 'A girl is sitting on a skateboard outside', 'A girl is sitting on the sidewalk on her skate board.', 'A girl in an orange sweater is sitting on a skateboard.']]
+
+處理進度: 1900/5000
+樣本 1900:
+生成的字幕: a plane flying in the sky
+參考字幕: [['A large jetliner flying through a cloudy blue sky.', 'A plane flying in the sky on a cloudy day.', 'A large airplane flies through the cloudy sky.', 'a big commuter plane flies through the sky ', 'a large air plane flying in the air ']]
+
+處理進度: 2000/5000
+樣本 2000:
+生成的字幕: a green car
+參考字幕: [['An old green and brown car with chrome trim.', 'A long car car is green and has wooden accents as it sits in a parking lot.', 'Old fashioned car that has two surfboards on it', 'An antique car is parked on a city street next to two others. ', 'This antique vehicle has a couple of surf boards riding on the roof.']]
+
+處理進度: 2100/5000
+樣本 2100:
+生成的字幕: a woman with a tennis racket
+參考字幕: [['a person wearing a head band and holding a tennis racket', 'a woman wearing a wig holding a tennis racket ', 'A woman in a green shirt holding a pink tennis racket.', 'a woman with a head band holding a tennis racket ', 'A woman wearing purple glasses and holding a racquet.']]
+
+處理進度: 2200/5000
+樣本 2200:
+生成的字幕: a person is doing a trick on a skateboard
+參考字幕: [['A boy that is standing on a skateboard.', 'A sun glare near a person riding a skate board.', 'a person is doing a trick on a skateboard', 'A young man performing a skate board trick at sunset.', 'She is graceful on the skateboard, opening her posture to the sun with its flare in the beautiful snapshot.']]
+
+處理進度: 2300/5000
+樣本 2300:
+生成的字幕: a woman throwing a frur
+參考字幕: [['A girl is throwing a Frisbee near some tents at a campground.', 'A brunette in a tank top and jeans reaching out to catch a frisbee.', 'lady plays catch while camping in the sun', 'A woman catching a red Frisbee while standing on a dirt road.', 'A woman about to catch a Frisbee at a camp ground.']]
+
+處理進度: 2400/5000
+樣本 2400:
+生成的字幕: a man standing on the beach surrounded by seaguls
+參考字幕: [['A bunch of birds flying around a couple of waves near the ocean.', 'A man standing on the beach watching some sea bird feed.', 'a number of birds flying over a body of water ', 'A man standing on a beach in front of the ocean.', 'A man is standing outside of the water observing the huge flock of birds. ']]
+
+處理進度: 2500/5000
+樣本 2500:
+生成的字幕: a man in a kitchen preparing food
+參考字幕: [['A man preparing food inside of a kitchen with a  small bird on his shoulder like snow white while wearing a cheap chefs hat.', 'a man in the kitchen cutting something on a cutting board', 'a man in a chefs hat chopping food', 'Man wearing chef hat with bird on shoulder having a disaster in kitchen.', 'a man is cutting some food at a kitchen counter']]
+
+處理進度: 2600/5000
+樣本 2600:
+生成的字幕: a white building with a clock on top
+參考字幕: [['A large white clock tower towering over a wall.', 'there is a very tall white tower with a clock', 'a clock tower near an elevated bridge with a sky background', 'Seagulls sit on the posts of a seaside balcony by a clock tower ', 'Birds resting on top of a tower with clocks on it.']]
+
+處理進度: 2700/5000
+樣本 2700:
+生成的字幕: a sandwich with meat and cheese on a white paper
+參考字幕: [['a sandwich that has something green and red in it', 'The bread has meat on it  and  vegetable    ', 'This is a meatball sandwich sitting on a plate. ', 'The sandwich had been cut and was ready to eat.', 'This cross section of a sandwich is still wrapped']]
+
+處理進度: 2800/5000
+樣本 2800:
+生成的字幕: a train on the tracks
+參考字幕: [['A train travels through a rural area as it blows smoke', 'A black train engine pulling red train cars through grassy area.', 'A train going through the country side on a sunny day', 'There is no image here to provide a caption for.', 'A train moves through a scenic, hilly landscape.']]
+
+處理進度: 2900/5000
+樣本 2900:
+生成的字幕: a dog is looking at a herd of sheep
+參考字幕: [['A dog running around the field with sheep in the background. ', 'Flock of sheep grazing in a green pasture with a dog running along side.', 'A dog is herding a large number of sheep', 'A dog is herding a flock of sheep in a pasture.', 'A herding dog runs behind a flock of sheep on a country hill side. ']]
+
+處理進度: 3000/5000
+樣本 3000:
+生成的字幕: a stone counter
+參考字幕: [['A man at a restaurant is waiting to serve customers.', 'An outdoor kitchen area with chefs and a stove.', 'Chefs work in an open kitchen and at a counter.', 'there are many cook and chefs in this kitchen', 'Men in a kitchen of some sort on a resort.']]
+
+處理進度: 3100/5000
+樣本 3100:
+生成的字幕: a man surfing on a wave
+參考字幕: [['A man is surfing on a board at the beach', 'a guy wearing a wet suit riding a surf board on some rapids', 'A man in a wet suit riding a surfboard on a wave.', 'A man in a body suit surfs up a river.', 'A surfboard, a man and a wild river ride.']]
+
+處理進度: 3200/5000
+樣本 3200:
+生成的字幕: a white building
+參考字幕: [['A small town grocery store beside a road.', 'there is a truck that is parked outside of a store ', 'An American flag flying from the top of a flag pole.', 'A car and a truck parked in front of a small store.', 'A picture of a small country store with a truck and car parked outside.']]
+
+處理進度: 3300/5000
+樣本 3300:
+生成的字幕: a kitchen with a stove, sink and oven
+參考字幕: [['A kitchen that appears to be missing a cabinet door.', 'A kitchen with a sink, oven, and wood cabinets and floors.', 'A kitchen with no appliances other than the ones installed in the counters.', 'A kitchen that has wooden floors and counters along the walls, along with an in wall oven.', 'A kitchen with wood cabinets and white appliances and countertops.']]
+
+處理進度: 3400/5000
+樣本 3400:
+生成的字幕: a man sitting on the beach
+參考字幕: [['A man sitting on the beach behind his surfboard.', 'A man sits on the beach behind his wake board.', 'A surfer sitting on the beach watching the waves.', 'A person sitting on the sand with a surf board behind them.', 'The man sits by the water while his surfboard sits on the sand.']]
+
+處理進度: 3500/5000
+樣本 3500:
+生成的字幕: a blue spoon stirring broiled broccode
+參考字幕: [['A skillet of food has broccoli as one of its ingredients.', 'A plate of broccoli with rice and sauce.', 'Cooked broccoli sitting in milk on a plate.', 'Broccoli in a pan cooking with other ingredients. ', 'Broccoli and some other food in a skilet  ']]
+
+處理進度: 3600/5000
+樣本 3600:
+生成的字幕: a train with graffiti on it
+參考字幕: [['a close up of graffiti written on a train', 'A large train with windows and some graffiti on the side.', 'Spraypaint tag on the side of a commuter train car at a station.', 'a silver and gray train car with some graffiti on it', 'Graffiti art work painted on the side of train.']]
+
+處理進度: 3700/5000
+樣本 3700:
+生成的字幕: a woman on a motorcycle
+參考字幕: [['A woman is riding an orange sports motorcycle.', 'Large woman on the back of on orange motorcycle. ', 'A woman riding an orange motorcycle on a race track.', 'A large woman is riding a motor bike.', 'A smiling woman on a bright orange motorcycle.']]
+
+處理進度: 3800/5000
+樣本 3800:
+生成的字幕: two women are sitting in a kitchen and eating pizza
+參考字幕: [['Two women in the kitchen with a plate of spaghetti.', 'Two girls look at a receipt over spaghetti dinner. ', 'Two ladies in a kitchen on reading a card from the hand of the other holding a plate of spaghetti.', 'Two women are conversing with each other in a room..', 'Two women in a kitchen talking by the microwave. ']]
+
+處理進度: 3900/5000
+樣本 3900:
+生成的字幕: a man working in a kitchen
+參考字幕: [['A cook is seen in a open kitchen making donuts', 'A man making doughnuts on a large mechanical assembly line.', 'Workers busy making donuts in a commercial bakery', 'A man works with a machine that is producing donuts. ', 'A baker puts donuts on a cookie sheet.']]
+
+處理進度: 4000/5000
+樣本 4000:
+生成的字幕: a cat is sitting on a pair of shoes
+參考字幕: [['A brown and white cat resting in someones shoe', 'A brown cat is sitting next to some shoes.', 'A Siamese cat resting on a pair of shoes. ', 'A cat who is cuddling next to a pair of shoes.', 'A very cute cat laying its head on a pair of shoes.']]
+
+處理進度: 4100/5000
+樣本 4100:
+生成的字幕: a man standing on the sidewalk next to a car
+參考字幕: [['An old black and white photo of a city street with a large cathedral on the right hand side. ', 'A black and white photograph of a city street scene.', 'A vintage photograph of a man walking across the street.', 'A man walking past a parked car onto a street.', 'A man stepping off the curb on a busy street lined with parked cars. ']]
+
+處理進度: 4200/5000
+樣本 4200:
+生成的字幕: a woman is putting something into a stove
+參考字幕: [['A young woman holding a gun on a stove top oven sitting in a field.', 'a woman pointing a little watergun at a ruined oven', 'A girl holding a water gun to a broken down stove.', 'A ruined oven out in the field with a girl spraying it. ', 'This girl is outside playing with an oven']]
+
+處理進度: 4300/5000
+樣本 4300:
+生成的字幕: a laptop, a can of soda, and a can of soda
+參考字幕: [['A computer with cables plugged in is shown.', 'A soda can sitting next to a laptop and remote control.', 'a red laptop a coca cola can and some wires', 'A desk with a laptop and coke can .', 'A can of coke is sitting on a desk next to a laptop and remote']]
+
+處理進度: 4400/5000
+樣本 4400:
+生成的字幕: a plate of food
+參考字幕: [['a piece of meat is on the plate with broccoli.', 'The meal is prepared and ready to be eaten. ', 'A plate of food with meat and broccoli on it. ', 'a close up of a plate of food with broccoli', "There is broccoli on a plate with another vegetable that's been grilled."]]
+
+處理進度: 4500/5000
+樣本 4500:
+生成的字幕: a cat sitting on a pair of shoes
+參考字幕: [['A cat is laying on the floor with its paws in a shoe.', "A pretty cat with both front feet in someone's shoe", "A cat has arranged itself mostly on a rug, but with its front paws in a shoe, as it rests on the shoe's mate and spreads its tail under a wooden stool.", 'A cat that is laying down on a pair of shoes.', 'A cat that is sitting on some shoes.']]
+
+處理進度: 4600/5000
+樣本 4600:
+生成的字幕: a woman walking down the sidewalk
+參考字幕: [['A woman walks past street posters and graffiti. ', 'A woman walks past a boarded up building decorated with black and white graphic art.', 'A woman walking down a sidewalk in front of graffiti.', 'A mural on a city wall with a women walking down the sidewalk. ', 'a woman walking down a dusty street in front of a mural']]
+
+處理進度: 4700/5000
+樣本 4700:
+生成的字幕: a group of chefs preparing food in a kitchen
+參考字幕: [['Two male chefs cooking in a kitchen while another staff member uses a mobile phone. ', 'a kitchen with two chefs preparing food in pots', 'Chefs in a restaurant cooking multiple dishes on a stove.', 'Two chefs in a kitchen preparing food in pans.', 'Chefs in uniform prepare food in a commercial kitchen']]
+
+處理進度: 4800/5000
+樣本 4800:
+生成的字幕: a group of people walking down a sidewalk
+參考字幕: [['A group of people walking up and down a city sidewalk.', 'People walking down a sidewalk on a street.', 'People walking up and down a city sidewalk.', 'A photograph of some people walking down the street in the city.', 'A woman walking past some stores on a sidewalk.']]
+
+處理進度: 4900/5000
+樣本 4900:
+生成的字幕: a woman cutting a cake
+參考字幕: [['Two woman putting some icing on a cake.', 'Two young girls work together to decorate a cake.', 'a couple or women decorating a cake on a counter ', 'Two women decorating a blue and yellow cake', 'Two women decorated a cake to look like a minion from Despicable Me.']]
+
+處理進度: 5000/5000
+樣本 5000:
+生成的字幕: a group of people standing around a bar
+參考字幕: [['a man in glasses is holding a wine glass', 'A man holds a glass in aroom with many other people', 'A man holds a glass as others mill around behind him. ', 'A group of people standing around in a room.', 'A man holding a glass speaking to someone']]
+
+準備評估...
+
+儲存生成的字幕和參考字幕...
+
+計算BLEU評分...
+
+計算METEOR評分...
+
+計算ROUGE評分...
+
+評估結果:
+處理的樣本數量: 5000
+BLEU-1 分數: 0.6017
+BLEU-4 分數: 0.2422
+METEOR 分數: 0.4242
+ROUGE-1 分數: 0.3638
+ROUGE-2 分數: 0.1301
+
+結束時間: 2025-03-22 07:09:30
+
+測試完成!

@@ -1,0 +1,500 @@
+圖像 1:
+  輸入: images/000055.jpg
+  描述: The individual has dark hair styled in a slicked-back manner, a prominent jawline, and a slight smile. His eyes are dark, and he has a clean-shaven face. He appears to be in his late twenties or early thirties.
+  輸出: output_images/snoopy_000055.jpg
+
+圖像 2:
+  輸入: images/000025.jpg
+  描述: The person has a short, neatly combed haircut with a slight receding hairline. They have a fair complexion, a prominent nose, and a slight frown, which might suggest a serious or contemplative mood. The eyes are not clearly visible, and there are no distinctive marks or tattoos that can be seen.
+  輸出: output_images/snoopy_000025.jpg
+
+圖像 3:
+  輸入: images/000015.jpg
+  描述: The person has a neatly combed, slicked-back hairstyle with a side part. His facial expression is serious and focused. He has a strong jawline, prominent cheekbones, and a slight stubble beard. His eyes are intense and he has a slight frown.
+  輸出: output_images/snoopy_000015.jpg
+
+圖像 4:
+  輸入: images/000014.jpg
+  描述: The individual has a medium complexion, with a light brown skin tone. They have short, tightly curled hair pulled back, revealing a portion of their forehead. Their eyes are dark brown and they have a neutral expression. Notable characteristics include the presence of a nose piercing on the left nostril and a small, subtle smile.
+  輸出: output_images/snoopy_000014.jpg
+
+圖像 5:
+  輸入: images/000066.jpg
+  描述: The person in the image has a medium-length dark brown hairstyle styled in a casual, slightly tousled manner. They have a broad smile showing white teeth, a gentle curve of the lips, and a soft, warm expression that suggests a friendly and approachable demeanor. The eyes are not clearly visible, making it difficult to comment on their color or expression. The person has short, dark hair framing the sides and back of their head, with a slight wave. The overall appearance is polished yet relaxed, with a hint of sophistication.
+  輸出: output_images/snoopy_000066.jpg
+
+圖像 6:
+  輸入: images/000048.jpg
+  描述: The individual has a youthful appearance with a serious expression. They have dark, slightly wavy hair and a prominent forehead. The eyes are expressive and slightly downturned, adding to the intense look. The skin tone is fair, and the lighting highlights the contours of the face, particularly around the cheekbones and jawline.
+  輸出: output_images/snoopy_000048.jpg
+
+圖像 7:
+  輸入: images/000067.jpg
+  描述: The person has short, dark hair with some lighter highlights, possibly gray or blonde. They have a serious or contemplative expression, with slightly furrowed brows and a neutral mouth. The eyes are not visible due to the blurred area. The person is wearing a dark jacket over a lighter shirt, and there is a cigarette in their right hand, which suggests a casual or relaxed demeanor.
+  輸出: output_images/snoopy_000067.jpg
+
+圖像 8:
+  輸入: images/000089.jpg
+  描述: The person has curly, voluminous hair with a mix of dark and light brown tones. They have a neutral expression with a slight smile. Their eyebrows are well-shaped, and they have clear, defined eyes with a hint of blue. The skin tone appears to be light, and they are wearing earrings that add a subtle sparkle to their look.
+  輸出: output_images/snoopy_000089.jpg
+
+圖像 9:
+  輸入: images/000052.jpg
+  描述: The individual has a prominent forehead, slightly wrinkled skin, and a receding hairline. His eyes are open wide, and he has a slight smile. His hair is short and appears to be of a light color, possibly gray or light brown. He is wearing a black leather jacket and a light-colored shirt underneath.
+  輸出: output_images/snoopy_000052.jpg
+
+圖像 10:
+  輸入: images/000039.jpg
+  描述: The person has a medium-length brown hair, styled with a side part. They have a warm smile, full lips, and their eyes are accentuated with dark eyeliner and a subtle smoky eye effect. They appear to be wearing makeup that enhances their features, with a focus on the eyes. Their expression is lively and engaging.
+  輸出: output_images/snoopy_000039.jpg
+
+圖像 11:
+  輸入: images/000080.jpg
+  描述: The individual has a clean-shaven face, a prominent nose, and deep-set eyes. His hair is neatly combed back, and he has a slight smile. The lighting highlights his cheekbones and the contours of his jawline.
+  輸出: output_images/snoopy_000080.jpg
+
+圖像 12:
+  輸入: images/000034.jpg
+  描述: The individual has a fair complexion with a neutral expression. They have a prominent nose, full lips, and a defined jawline. Their eyes are accentuated with dark eyeliner and eyeshadow, giving them a striking appearance. The hair is styled in a voluminous manner with layers and appears well-maintained. Overall, the person has a sophisticated and polished look.
+  輸出: output_images/snoopy_000034.jpg
+
+圖像 13:
+  輸入: images/000003.jpg
+  描述: The individual has short, dark hair with a slight wave, styled in a casual manner. Their facial expression is relaxed, with a slight smile, and they are looking slightly to the side. Notable characteristics include a clean-shaven face and visible ear piercings. The overall appearance suggests a youthful, casual style.
+  輸出: output_images/snoopy_000003.jpg
+
+圖像 14:
+  輸入: images/000073.jpg
+  描述: The person has a well-defined jawline and high cheekbones, with a neutral expression that could be interpreted as thoughtful or contemplative. The hairstyle is voluminous with soft waves, and the lighting highlights the contours of the face.
+  輸出: output_images/snoopy_000073.jpg
+
+圖像 15:
+  輸入: images/000090.jpg
+  描述: The individual has a light skin tone and light-colored hair, possibly blonde. He is wearing a white shirt with a black stripe on the left side. His facial expression is neutral with a slight intensity in his gaze.
+  輸出: output_images/snoopy_000090.jpg
+
+圖像 16:
+  輸入: images/000024.jpg
+  描述: The person has a light complexion with a neutral expression. They have light-colored hair styled in a relaxed manner, with no visible accessories. Their eyes are a deep color, and they have a subtle, natural makeup look.
+  輸出: output_images/snoopy_000024.jpg
+
+圖像 17:
+  輸入: images/000059.jpg
+  描述: The individual has a medium skin tone, with a full face of makeup that includes dark eyeliner and mascara. The hair is styled in a voluminous, wavy manner, predominantly black with some lighter highlights, and is styled upwards. The person has a neutral expression with a slight hint of a smile. Notable characteristics include the prominent eyebrows, the sparkle in the eyes, and the well-groomed appearance.
+  輸出: output_images/snoopy_000059.jpg
+
+圖像 18:
+  輸入: images/000056.jpg
+  描述: The person has a neutral expression with a slight frown, dark eyebrows, and a light stubble beard. They have a serious expression, and their hair is styled in a messy, slightly unkempt manner. The skin appears to be of a medium tone, and the lighting in the image casts a warm glow, highlighting the person's features.
+  輸出: output_images/snoopy_000056.jpg
+
+圖像 19:
+  輸入: images/000008.jpg
+  描述: The person has a well-groomed hairstyle with short, slicked-back black hair. They have a sharp jawline, prominent cheekbones, and a strong chin. Their expression is serious and intense, with a slight frown. The eyes are dark and piercing, and there are no visible tattoos or piercings.
+  輸出: output_images/snoopy_000008.jpg
+
+圖像 20:
+  輸入: images/000007.jpg
+  描述: The person has dark hair styled in a short, spiky manner. They have a medium skin tone, with a light brown complexion and no visible tattoos or piercings. The individual has a slight smile, which, along with their direct gaze and relaxed facial expression, conveys a friendly and approachable demeanor. Their eyes are almond-shaped with a soft focus, and they have a clean-shaven face.
+  輸出: output_images/snoopy_000007.jpg
+
+圖像 21:
+  輸入: images/000085.jpg
+  描述: The individual has a fair skin tone, green eyes, and a neutral expression. They have shoulder-length, wavy red hair with a natural makeup look that includes subtle eye makeup and a hint of pink lipstick.
+  輸出: output_images/snoopy_000085.jpg
+
+圖像 22:
+  輸入: images/000044.jpg
+  描述: The individual has a medium complexion, with a prominent nose, full lips, and almond-shaped eyes. Their hair is styled in tight curls, and they have a neutral expression. They are wearing a necklace with large, pink flowers.
+  輸出: output_images/snoopy_000044.jpg
+
+圖像 23:
+  輸入: images/000043.jpg
+  描述: The person has a radiant smile with a well-groomed complexion, wearing natural makeup with a focus on the eyes. They have medium-length, wavy hair that falls just past the shoulders, and their expression is joyful. The ears are adorned with earrings, and the overall appearance is polished and professional.
+  輸出: output_images/snoopy_000043.jpg
+
+圖像 24:
+  輸入: images/000026.jpg
+  描述: The person has long, straight brown hair with a slight wave, parted in the middle, and a neutral expression. They have clear skin, prominent cheekbones, and a natural-looking complexion. The hairline is straight, and the eyes are almond-shaped. No accessories or distinguishing marks are visible.
+  輸出: output_images/snoopy_000026.jpg
+
+圖像 25:
+  輸入: images/000097.jpg
+  描述: The person has a serious expression with blue eyes and a slightly furrowed brow. They have shoulder-length, wavy brown hair with lighter highlights, styled in a messy yet fashionable manner. Their skin tone is fair, and they have a subtle, natural makeup look.
+  輸出: output_images/snoopy_000097.jpg
+
+圖像 26:
+  輸入: images/000017.jpg
+  描述: The individual in the image has dark hair, possibly black or dark brown, styled in a simple, straight manner. They have a neutral expression with a slight smile, suggesting a calm or content demeanor. The person's eyes are not clearly visible due to the angle and the presence of the medal. There are no visible tattoos or piercings, and the skin tone appears to be light. The hairstyle is neat, and the overall appearance is tidy and professional.
+  輸出: output_images/snoopy_000017.jpg
+
+圖像 27:
+  輸入: images/000045.jpg
+  描述: The person has a warm smile, with prominent cheekbones, full lips, and a defined jawline. The hairstyle is long, brown, and appears to be styled in soft waves. The expression is friendly and inviting, with eyes that are bright and engaging.
+  輸出: output_images/snoopy_000045.jpg
+
+圖像 28:
+  輸入: images/000071.jpg
+  描述: The person has a sharp jawline, prominent cheekbones, and a subtle smile. Their hair is styled in a straight, shoulder-length cut with bangs that partially cover the forehead. They are wearing large, dangling earrings and have a neutral expression.
+  輸出: output_images/snoopy_000071.jpg
+
+圖像 29:
+  輸入: images/000082.jpg
+  描述: The individual has a medium to thick mustache and a slight smile, with a prominent nose and full cheeks. The hair is short and dark, styled in a casual manner. The person is wearing a green shirt and appears to be outdoors with greenery in the background.
+  輸出: output_images/snoopy_000082.jpg
+
+圖像 30:
+  輸入: images/000018.jpg
+  描述: The person has a fair complexion with a gentle smile, light brown eyes, and prominent eyebrows. They have blonde hair styled in loose waves and are wearing a leopard print scarf. Their makeup is subtle, with defined eyebrows and a hint of pink blush.
+  輸出: output_images/snoopy_000018.jpg
+
+圖像 31:
+  輸入: images/000092.jpg
+  描述: The person has a fair complexion with visible freckles, light brown eyes, and a subtle smile. Their hair is blonde and styled in a wavy, shoulder-length cut. The person is wearing a dark floral blouse with a collared neckline. The overall appearance is professional and well-groomed.
+  輸出: output_images/snoopy_000092.jpg
+
+圖像 32:
+  輸入: images/000058.jpg
+  描述: The person has a medium-length, dark brown hair styled in loose waves. They have a neutral expression with a slight hint of a smile. Their eyes are dark with a sharp, defined shape, and they have a clear complexion with minimal makeup.
+  輸出: output_images/snoopy_000058.jpg
+
+圖像 33:
+  輸入: images/000016.jpg
+  描述: The individual has a medium-length, dark brown hairstyle that is slightly tousled. His skin tone is light, and he has a clean-shaven face. His eyes are dark, possibly brown, and he is wearing a slight smile. There are no visible tattoos or piercings, and he appears to be in his late 20s to mid-30s.
+  輸出: output_images/snoopy_000016.jpg
+
+圖像 34:
+  輸入: images/000069.jpg
+  描述: The individual has dark hair, a neutral facial expression, and is looking upwards. There are no visible tattoos or piercings, and the skin appears to be of a light tone. The hairstyle is short and neatly styled.
+  輸出: output_images/snoopy_000069.jpg
+
+圖像 35:
+  輸入: images/000099.jpg
+  描述: The person in the image has a fair complexion with a medium skin tone. They have long, wavy brown hair that falls over their shoulders, with a slight wave at the ends. Their eyes are a light color, possibly blue or green, and they have a natural, soft expression with a slight smile. The makeup is subtle, with a focus on the eyes, which have a hint of pink blush and are accentuated by eyeliner and mascara. The overall appearance is polished and well-groomed, with a natural yet refined look.
+  輸出: output_images/snoopy_000099.jpg
+
+圖像 36:
+  輸入: images/000083.jpg
+  描述: The person has a light skin tone, medium-length reddish-brown hair styled in loose waves, and is wearing makeup that includes red lipstick. They have a neutral expression with a slight smile, and their eyes are framed by light makeup. The person is wearing earrings and a necklace, suggesting a formal or semi-formal occasion.
+  輸出: output_images/snoopy_000083.jpg
+
+圖像 37:
+  輸入: images/000064.jpg
+  描述: The person has a medium-length haircut with a side part. They have a fair complexion, light brown or hazel eyes, and a neutral expression with a slight smile. Their hair appears to be neatly styled, and they have a well-groomed beard and mustache.
+  輸出: output_images/snoopy_000064.jpg
+
+圖像 38:
+  輸入: images/000010.jpg
+  描述: The person has a fair complexion, with a prominent nose, full lips, and a gentle smile. Their hair is blonde and styled in loose waves, with a slight wave on the sides. The eyes are a light color, possibly blue or green, and they have a soft, natural makeup look with defined eyebrows. The overall expression is approachable and friendly.
+  輸出: output_images/snoopy_000010.jpg
+
+圖像 39:
+  輸入: images/000013.jpg
+  描述: The individual has short, light-colored hair and a light skin tone. His facial expression is friendly with a slight smile, and he is looking directly at the camera. He has a well-defined jawline and his eyes are light-colored. He is wearing a green sports jersey with a yellow stripe on the side.
+  輸出: output_images/snoopy_000013.jpg
+
+圖像 40:
+  輸入: images/000023.jpg
+  描述: The individual has short, dark hair with a slight wave, a well-groomed appearance, and a clean-shaven face. The eyes are light-colored, possibly blue, and the person is smiling slightly. The skin tone is fair, and there is a visible stubble on the face.
+  輸出: output_images/snoopy_000023.jpg
+
+圖像 41:
+  輸入: images/000047.jpg
+  描述: The person has a medium skin tone, long dark hair, and is smiling. The eyes are not clearly visible, but the person appears to have a fair complexion.
+  輸出: output_images/snoopy_000047.jpg
+
+圖像 42:
+  輸入: images/000050.jpg
+  描述: The person has a medium-length, wavy hairstyle and is wearing a dark suit. He has a broad smile, showing teeth, and his expression is friendly. His eyes are dark, and he has a light skin tone. There are no visible tattoos or piercings.
+  輸出: output_images/snoopy_000050.jpg
+
+圖像 43:
+  輸入: images/000012.jpg
+  描述: The individual in the image has short, neatly combed black hair with a parting on the side. He has prominent cheekbones, a broad smile showing his teeth, and a friendly expression. His eyes are dark, and he has a subtle smile, which adds to his approachable appearance. The lighting is soft, highlighting his facial features without creating harsh shadows.
+  輸出: output_images/snoopy_000012.jpg
+
+圖像 44:
+  輸入: images/000035.jpg
+  描述: The individual has a neutral expression with a slight intensity in the eyes. They have a medium-length, dark hairstyle that appears tousled. The skin tone is fair, and there are no visible tattoos or scars. The person's lips are slightly parted, and they have a subtle smile.
+  輸出: output_images/snoopy_000035.jpg
+
+圖像 45:
+  輸入: images/000075.jpg
+  描述: The person has a prominent nose, full lips, and a slight smile. The hairstyle is voluminous with curls, and the hair is styled with a white accessory on the side. The expression is neutral with a hint of a smile. The skin tone appears fair.
+  輸出: output_images/snoopy_000075.jpg
+
+圖像 46:
+  輸入: images/000076.jpg
+  描述: The person has long, dark hair with a slight wave, styled to one side. They have a medium-length beard and mustache, and a slight stubble on the chin. Their eyes are closed, and their eyebrows are arched upwards. They have a neutral expression with a slight smile. Their skin tone is light, and they are wearing a dark-colored shirt.
+  輸出: output_images/snoopy_000076.jpg
+
+圖像 47:
+  輸入: images/000094.jpg
+  描述: The person has a fair complexion with a mature face, prominent cheekbones, and a gentle smile. They have blonde hair styled in loose waves, parted in the middle, and are wearing minimal makeup. Their expression is friendly and approachable.
+  輸出: output_images/snoopy_000094.jpg
+
+圖像 48:
+  輸入: images/000042.jpg
+  描述: The person has a youthful appearance with light skin tone, a neutral expression, and is wearing a black top. They have blonde hair styled in a part, with a slight wave, and are wearing makeup including pink eyeshadow, dark eyeliner, and red lipstick. They have a small, light-colored mole on the left cheek and are wearing earrings.
+  輸出: output_images/snoopy_000042.jpg
+
+圖像 49:
+  輸入: images/000001.jpg
+  描述: The person has a light skin tone, brown eyes, and is wearing a subtle, natural-looking makeup. They have long, straight hair with a slight wave, parted in the middle, and are wearing a small, round earring in the left ear. They have a warm smile and appear to be looking directly at the camera.
+  輸出: output_images/snoopy_000001.jpg
+
+圖像 50:
+  輸入: images/000079.jpg
+  描述: The individual is a bald male with a neutral expression, slight smile, and prominent cheekbones. He has a clean-shaven face and is wearing a black shirt with a collar. His eyes are looking directly at the camera, and he has no visible hair on his head.
+  輸出: output_images/snoopy_000079.jpg
+
+圖像 51:
+  輸入: images/000087.jpg
+  描述: The individual has a light skin tone and is wearing a dark top. They have a medium-length hairstyle with a slight curl at the ends, pulled back from the face. The person has a broad smile, showing their teeth, and their eyes are looking directly at the camera with a soft expression. There are no visible accessories or tattoos.
+  輸出: output_images/snoopy_000087.jpg
+
+圖像 52:
+  輸入: images/000041.jpg
+  描述: The person has a medium-length, dark hairstyle that is styled in a casual, slightly tousled manner. They have a light skin tone and a warm smile, showing a friendly expression. Their eyes are dark and expressive, adding to the overall cheerful demeanor. The person is wearing a black jacket, suggesting a casual to semi-formal style.
+  輸出: output_images/snoopy_000041.jpg
+
+圖像 53:
+  輸入: images/000037.jpg
+  描述: The individual has a serious facial expression with a focused gaze. He has short, dark hair and a clean-shaven face. The cap is black with a white logo, which is the logo of the New York Mets. His skin tone is medium, and there are no visible tattoos or other distinguishing marks.
+  輸出: output_images/snoopy_000037.jpg
+
+圖像 54:
+  輸入: images/000029.jpg
+  描述: The person has blonde hair with a fringe, blue eyes, and a neutral expression. They have a subtle smile and are wearing makeup that highlights their eyes and lips. Their hairstyle is straight and shoulder-length, and they are wearing a black top. The background is a red and white color scheme with logos.
+  輸出: output_images/snoopy_000029.jpg
+
+圖像 55:
+  輸入: images/000072.jpg
+  描述: The individual has a medium to thick, dark brown hair with a slightly receding hairline. His facial features include a broad forehead, prominent cheekbones, and a well-defined jawline. He has a friendly expression with a slight smile, showing his teeth, and his eyes are bright and expressive. His skin tone is light, and he is wearing a formal dark suit with a light blue tie.
+  輸出: output_images/snoopy_000072.jpg
+
+圖像 56:
+  輸入: images/000036.jpg
+  描述: The individual has a short, dark hairstyle with a part on the left side. His facial expression is one of slight concern or confusion, with his eyebrows slightly furrowed. He has prominent cheekbones, a broad nose, and his lips are slightly parted. The lighting is natural, suggesting the photo was taken outdoors or near a window.
+  輸出: output_images/snoopy_000036.jpg
+
+圖像 57:
+  輸入: images/000091.jpg
+  描述: The individual has dark hair, styled in a modern fashion with some volume at the top. His facial expression is serious and slightly intense, with a direct gaze towards the camera. Notable facial features include well-defined cheekbones, prominent eyebrows, and a strong jawline. The eyes are slightly narrowed, which could indicate concentration or determination. The overall appearance is that of a young adult, possibly in his late twenties or early thirties.
+  輸出: output_images/snoopy_000091.jpg
+
+圖像 58:
+  輸入: images/000057.jpg
+  描述: The individual has a prominent nose, full lips, and is wearing makeup with dark eyeliner and mascara. They have their hair styled in a sleek, pulled-back manner, and are wearing large, dangling earrings. The expression is neutral, and the overall appearance is well-groomed and polished.
+  輸出: output_images/snoopy_000057.jpg
+
+圖像 59:
+  輸入: images/000063.jpg
+  描述: The person has a warm smile, light brown eyes, and blonde hair styled in soft waves. Their skin appears smooth, and they have a gentle, approachable expression.
+  輸出: output_images/snoopy_000063.jpg
+
+圖像 60:
+  輸入: images/000054.jpg
+  描述: The person in the image has a warm smile, light brown hair, and a fair complexion. They are wearing makeup that enhances their features, with a focus on the eyes and lips. The hairstyle is loose and wavy, falling just past the shoulders. The expression is friendly and inviting, with a slight head tilt that adds a touch of elegance. No notable tattoos or piercings are visible, and the person's overall appearance is polished and well-groomed.
+  輸出: output_images/snoopy_000054.jpg
+
+圖像 61:
+  輸入: images/000068.jpg
+  描述: The person is an elderly male with gray hair, wearing a black fedora. He has a light skin tone, visible aging signs, and is smiling. His eyes are not visible, and his expression is friendly.
+  輸出: output_images/snoopy_000068.jpg
+
+圖像 62:
+  輸入: images/000019.jpg
+  描述: The person has a neutral facial expression with a slight intensity in the eyes. The hair is long, wavy, and blonde, styled in a casual manner. There are no visible accessories or distinctive markings.
+  輸出: output_images/snoopy_000019.jpg
+
+圖像 63:
+  輸入: images/000005.jpg
+  描述: The person has a fair complexion with a neutral expression. They have a prominent forehead, straight eyebrows, and a natural eye color. Their hairstyle is a modern, short, layered cut with a slight wave, and the hair color appears to be light brown or blonde.
+  輸出: output_images/snoopy_000005.jpg
+
+圖像 64:
+  輸入: images/000095.jpg
+  描述: The person has a light complexion, dark eyes, and a neutral expression. They have a short hairstyle, possibly blonde, and are wearing a white visor. The expression is not one of clear emotion, and there are no other distinguishing features visible.
+  輸出: output_images/snoopy_000095.jpg
+
+圖像 65:
+  輸入: images/000004.jpg
+  描述: The person has dark hair styled in a casual manner, possibly with braids or twists. Their eyes are not visible, and they appear to have a neutral or slightly downcast expression. They are wearing dark, possibly black, clothing and have a light skin tone. No other distinguishing features or accessories are clearly visible.
+  輸出: output_images/snoopy_000004.jpg
+
+圖像 66:
+  輸入: images/000070.jpg
+  描述: The person has a neatly styled, slicked-back dark hair, a clean-shaven face, and a broad smile showing white teeth. His eyes are slightly squinted, and he has a prominent nose. The overall appearance suggests a well-groomed and confident individual, possibly in a professional setting.
+  輸出: output_images/snoopy_000070.jpg
+
+圖像 67:
+  輸入: images/000061.jpg
+  描述: The person has a medium skin tone, curly dark hair, and is wearing a dark blue t-shirt. The individual has a surprised expression with raised eyebrows and an open mouth. The eyes are not clearly visible due to the angle of the face. There are no visible tattoos or piercings, and the hair appears to be well-groomed.
+  輸出: output_images/snoopy_000061.jpg
+
+圖像 68:
+  輸入: images/000081.jpg
+  描述: The person has dark hair, a light skin tone, and is wearing a dark-colored shirt. He has a friendly expression with a slight smile, and his eyes are not clearly visible. His hairstyle appears to be short and possibly tousled.
+  輸出: output_images/snoopy_000081.jpg
+
+圖像 69:
+  輸入: images/000022.jpg
+  描述: The person has blonde hair styled in loose waves, blue eyes, and is wearing minimal makeup. They have a neutral expression with a slight hint of a smile, and the skin tone is light. No accessories or tattoos are visible.
+  輸出: output_images/snoopy_000022.jpg
+
+圖像 70:
+  輸入: images/000065.jpg
+  描述: The individual has a youthful appearance with short, dark hair that is styled upwards. The eyes are dark, and the person is wearing a light-colored shirt. The expression is neutral with a slight smile. No distinctive facial marks or tattoos are visible.
+  輸出: output_images/snoopy_000065.jpg
+
+圖像 71:
+  輸入: images/000093.jpg
+  描述: The individual has a neutral facial expression with a slight frown, possibly indicating a serious or contemplative mood. They have long, straight dark hair that is parted in the middle and falls past the shoulders. The person is wearing dark sunglasses, obscuring their eyes, and has a light complexion. No other distinctive features are visible.
+  輸出: output_images/snoopy_000093.jpg
+
+圖像 72:
+  輸入: images/000040.jpg
+  描述: The person has a neutral expression with subtle expressions around the eyes. They have a medium-length hairstyle with a parting on the side. The eyes are dark, possibly brown, and the skin tone is light. The person is wearing large, round earrings.
+  輸出: output_images/snoopy_000040.jpg
+
+圖像 73:
+  輸入: images/000100.jpg
+  描述: The person in the image has a fair complexion with a high cheekbone structure. They have a prominent nose, full lips, and their eyes are accentuated with dark eyeliner and mascara. The hairstyle is a sleek, short cut that frames the face. The person is smiling, showing their teeth, which adds a friendly and approachable expression to their face.
+  輸出: output_images/snoopy_000100.jpg
+
+圖像 74:
+  輸入: images/000088.jpg
+  描述: The person in the image has long, wavy brown hair and light skin tone. They have a subtle makeup look with visible eye makeup and natural-looking skin. The person is wearing a purple choker necklace and is looking directly at the camera with a neutral expression.
+  輸出: output_images/snoopy_000088.jpg
+
+圖像 75:
+  輸入: images/000074.jpg
+  描述: The person has a fair complexion with a prominent nose, full lips, and dark, voluminous eyelashes. They have dark hair styled in a sleek, straight manner. The person is wearing a black and white top hat, which covers the majority of their head. Their expression is one of surprise or shock, with their mouth slightly open and eyes wide. They have a neutral expression on the side of their face, with their chin slightly raised and their hand resting on their cheek. The overall appearance is striking and theatrical, suggesting a character or persona that is meant to be memorable and attention-grabbing.
+  輸出: output_images/snoopy_000074.jpg
+
+圖像 76:
+  輸入: images/000098.jpg
+  描述: The person in the image has a medium-length, wavy hairstyle with a parting in the middle. They have a prominent, well-defined jawline and full lips. The eyes are expressive, with a slight intensity, and the eyebrows are arched. The person is wearing dark lipstick and has a subtle smokey eye makeup look. There is a visible choker necklace, and the overall expression is neutral with a hint of a smile.
+  輸出: output_images/snoopy_000098.jpg
+
+圖像 77:
+  輸入: images/000033.jpg
+  描述: The individual has a well-groomed appearance with short, neatly styled dark hair and a light stubble beard. He has striking blue eyes, a strong jawline, and a slight smile, conveying a friendly yet confident demeanor. His skin tone is fair, and he is dressed in a formal black suit with a white shirt, which suggests a professional setting.
+  輸出: output_images/snoopy_000033.jpg
+
+圖像 78:
+  輸入: images/000002.jpg
+  描述: The person has red hair styled in a sleek, slightly wavy manner, possibly a parting on the left side. They have prominent cheekbones, a defined jawline, and a gentle smile. Their skin tone is fair, and they are wearing what appears to be a light-colored top with a subtle pattern. The lighting is soft, highlighting their features gently.
+  輸出: output_images/snoopy_000002.jpg
+
+圖像 79:
+  輸入: images/000032.jpg
+  描述: The person in the image has short, light brown hair and a fair complexion. He is wearing a dark suit with a white shirt and a red tie. His facial expression is serious, with a focused gaze that suggests he is engaged in a significant discussion or making an important point. His eyebrows are slightly raised, and his mouth is set in a firm line, indicating a moment of emphasis or decision. The overall appearance is professional, and he seems to be in a formal setting, possibly giving a speech or presentation.
+  輸出: output_images/snoopy_000032.jpg
+
+圖像 80:
+  輸入: images/000028.jpg
+  描述: The person has light skin with a fair complexion, visible freckles on the cheeks and nose. They have long, wavy hair that is styled down, covering the forehead and parting slightly to the side. The hair has a natural, slightly tousled look with lighter and darker shades, suggesting it may be styled with a light product. The person is smiling, showing their teeth, which adds to the friendly and approachable appearance. Their eyes are bright and expressive, with a sparkle that could indicate happiness or amusement. The overall expression is welcoming and positive.
+  輸出: output_images/snoopy_000028.jpg
+
+圖像 81:
+  輸入: images/000049.jpg
+  描述: The person has short, light-colored hair, a slightly unkempt beard, and is wearing a dark shirt. His expression is serious and focused, with a slight frown, and his eyes are looking to the side.
+  輸出: output_images/snoopy_000049.jpg
+
+圖像 82:
+  輸入: images/000060.jpg
+  描述: The individual has a broad smile, dark skin, and is wearing a colorful headwrap. The hairstyle is short and neatly styled. The expression is joyful and welcoming.
+  輸出: output_images/snoopy_000060.jpg
+
+圖像 83:
+  輸入: images/000053.jpg
+  描述: The person has a casual hairstyle, possibly styled to one side. They are wearing dark sunglasses and have a neutral, slightly contemplative facial expression. The individual has a clear complexion and appears to be in a relaxed state, with no visible accessories or distinguishing features that stand out from the general description.
+  輸出: output_images/snoopy_000053.jpg
+
+圖像 84:
+  輸入: images/000096.jpg
+  描述: The person has curly hair, dark eyes, and a neutral expression. The hair is voluminous and appears slightly disheveled.
+  輸出: output_images/snoopy_000096.jpg
+
+圖像 85:
+  輸入: images/000031.jpg
+  描述: The person has short, dark hair and is wearing a black top with a logo. They have a slight smile, with visible smile lines on the cheeks and around the mouth. The eyes are slightly squinted, and the skin appears smooth with minimal visible blemishes.
+  輸出: output_images/snoopy_000031.jpg
+
+圖像 86:
+  輸入: images/000077.jpg
+  描述: The person has a youthful appearance with a smooth complexion and a radiant smile. Her hair is styled in loose waves, and she has prominent, well-defined eyebrows. Her eyes are bright and expressive, and she has a subtle shine to her skin. She appears to be in her late teens or early twenties.
+  輸出: output_images/snoopy_000077.jpg
+
+圖像 87:
+  輸入: images/000084.jpg
+  描述: The individual has a mature appearance with a neutral expression. They have short, curly grey hair and are wearing a purple top. Notable characteristics include a gentle smile and a composed demeanor.
+  輸出: output_images/snoopy_000084.jpg
+
+圖像 88:
+  輸入: images/000078.jpg
+  描述: The individual has a medium-length, wavy, dark hair with a center part. Their eyes are closed, and they have a slight smile. The skin tone appears to be light, and they have prominent cheekbones and a defined jawline. The person is wearing a bright green top.
+  輸出: output_images/snoopy_000078.jpg
+
+圖像 89:
+  輸入: images/000030.jpg
+  描述: The person has short, curly hair with visible graying, particularly at the temples. Their eyes are a deep blue, and they have a serious expression with a slight frown, possibly indicating a contemplative or intense mood. The skin tone is fair, and the overall appearance suggests a middle-aged adult.
+  輸出: output_images/snoopy_000030.jpg
+
+圖像 90:
+  輸入: images/000027.jpg
+  描述: The person has long, wavy dark hair that falls past her shoulders. She is smiling with a slight smile showing her teeth. Her eyes are a light color, possibly green or hazel, and she has a fair complexion. She is wearing a red top with a visible neckline. There are no visible accessories or tattoos.
+  輸出: output_images/snoopy_000027.jpg
+
+圖像 91:
+  輸入: images/000020.jpg
+  描述: The person has a beard and mustache, and his hair is styled in a casual manner, possibly with volume at the top. His facial expression is serious, and he has a slight frown. The eyes are not clearly visible, and the skin tone appears to be light.
+  輸出: output_images/snoopy_000020.jpg
+
+圖像 92:
+  輸入: images/000038.jpg
+  描述: The individual has a medium-length, wavy brown hairstyle with a slight wave on the sides. He has a prominent nose, a broad smile, and his eyes are bright and expressive. His skin tone is light, and he has a well-groomed appearance with a slight stubble.
+  輸出: output_images/snoopy_000038.jpg
+
+圖像 93:
+  輸入: images/000046.jpg
+  描述: The person has a slender face with prominent cheekbones, a straight nose, and a small smile. They have a short, straight black hairstyle with bangs that frame their face. The skin appears smooth, and they have a subtle makeup look with natural-looking eyebrows and a hint of pink lipstick.
+  輸出: output_images/snoopy_000046.jpg
+
+圖像 94:
+  輸入: images/000021.jpg
+  描述: The person has a balding hairline, is wearing a dark suit with a white shirt, and has a broad smile. The facial expression is friendly and engaging.
+  輸出: output_images/snoopy_000021.jpg
+
+圖像 95:
+  輸入: images/000086.jpg
+  描述: The individual has a neutral facial expression with a slight pout. The hair is pulled back, revealing a neat bun, and the person's skin tone is fair. There are no visible tattoos or piercings, and the person is wearing a pink top with thin straps.
+  輸出: output_images/snoopy_000086.jpg
+
+圖像 96:
+  輸入: images/000006.jpg
+  描述: The person has a neutral expression with a slight frown. They have light brown hair styled in loose curls, with the top part slightly pulled back. The makeup is subtle, with a focus on the eyes, which are accentuated with eyeliner and mascara. The skin tone is fair, and there are no visible tattoos or piercings.
+  輸出: output_images/snoopy_000006.jpg
+
+圖像 97:
+  輸入: images/000051.jpg
+  描述: The individual has a balding head with some remaining hair at the temples. He has a mustache and a slight smile, with his eyes looking upwards. He wears a dark-colored shirt and has a serious expression.
+  輸出: output_images/snoopy_000051.jpg
+
+圖像 98:
+  輸入: images/000009.jpg
+  描述: The person in the image has a fair complexion with a warm, golden-toned skin tone. They have dark brown hair styled in a high ponytail with a middle parting. The hair is styled in a way that frames the face, with the bangs falling over the forehead. The person is wearing earrings, which appear to be small and round. Their eyes are accentuated with dark eyeliner, and they are wearing what seems to be a subtle, possibly light-colored eyeshadow. The eyebrows are well-groomed and filled in, complementing the overall makeup look. The person is smiling, which gives a friendly and approachable expression. There are no visible tattoos, scars, or other distinguishing marks that can be seen in this image.
+  輸出: output_images/snoopy_000009.jpg
+
+圖像 99:
+  輸入: images/000062.jpg
+  描述: The person has a neutral expression with a slight smile. They have brown hair with bangs, styled in a layered, voluminous manner. Their eyes are almond-shaped, and they have a soft, natural makeup look with subtle eye makeup and a hint of blush on the cheeks. No glasses or distinctive accessories are visible.
+  輸出: output_images/snoopy_000062.jpg
+
+圖像 100:
+  輸入: images/000011.jpg
+  描述: The individual has dark, wavy hair that falls over the shoulders, a prominent forehead with a slight brow ridge, and a broad nose. The eyes are almond-shaped with a dark color, and the lips are full and slightly parted. The overall expression is neutral, and the skin tone appears fair.
+  輸出: output_images/snoopy_000011.jpg
+
